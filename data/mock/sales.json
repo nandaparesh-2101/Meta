@@ -1,0 +1,5087 @@
+[
+  {
+    "sale_id": "sale_7faeee0b3f",
+    "lead_id": "lead_cef7f3b8b9",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-26",
+    "amount": 180.74
+  },
+  {
+    "sale_id": "sale_d11548a906",
+    "lead_id": "lead_abdd75bbf0",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-26",
+    "amount": 148.73
+  },
+  {
+    "sale_id": "sale_d54b7c2752",
+    "lead_id": "lead_c5db49b94f",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-26",
+    "amount": 157.87
+  },
+  {
+    "sale_id": "sale_afee5c03b0",
+    "lead_id": "lead_68f9efac03",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-26",
+    "amount": 148.3
+  },
+  {
+    "sale_id": "sale_c66bfb986e",
+    "lead_id": "lead_3743faa647",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-27",
+    "amount": 188.17
+  },
+  {
+    "sale_id": "sale_e00a5506e6",
+    "lead_id": "lead_d13ef74246",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-27",
+    "amount": 141.57
+  },
+  {
+    "sale_id": "sale_f69fd6843f",
+    "lead_id": "lead_b8274d21c2",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-27",
+    "amount": 151.37
+  },
+  {
+    "sale_id": "sale_e0e1d4df16",
+    "lead_id": "lead_f56204abc2",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-27",
+    "amount": 144.61
+  },
+  {
+    "sale_id": "sale_01107fc125",
+    "lead_id": "lead_3c4a7ad460",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 177.24
+  },
+  {
+    "sale_id": "sale_55db668f33",
+    "lead_id": "lead_920ab5fd2b",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 146.65
+  },
+  {
+    "sale_id": "sale_c3e2825f7d",
+    "lead_id": "lead_2b403a503e",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 164.99
+  },
+  {
+    "sale_id": "sale_4ee02acf40",
+    "lead_id": "lead_cad7b2c551",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 194.22
+  },
+  {
+    "sale_id": "sale_d92f37cde6",
+    "lead_id": "lead_f7f966e235",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 137.35
+  },
+  {
+    "sale_id": "sale_95e33f99ab",
+    "lead_id": "lead_85c5fdde0b",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 184.71
+  },
+  {
+    "sale_id": "sale_e4f002ee50",
+    "lead_id": "lead_599bffe113",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-28",
+    "amount": 168.87
+  },
+  {
+    "sale_id": "sale_5dec250e01",
+    "lead_id": "lead_b644865e90",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-29",
+    "amount": 141.17
+  },
+  {
+    "sale_id": "sale_1d9b0328ac",
+    "lead_id": "lead_04d171f933",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-29",
+    "amount": 152.73
+  },
+  {
+    "sale_id": "sale_f5a3591d69",
+    "lead_id": "lead_526b6c9ad0",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-29",
+    "amount": 193.19
+  },
+  {
+    "sale_id": "sale_6860e43a24",
+    "lead_id": "lead_124e1984a9",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-29",
+    "amount": 193.8
+  },
+  {
+    "sale_id": "sale_98772b33c3",
+    "lead_id": "lead_9dd4b5b50e",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-29",
+    "amount": 152.45
+  },
+  {
+    "sale_id": "sale_6b72542898",
+    "lead_id": "lead_127983ce42",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-29",
+    "amount": 139.63
+  },
+  {
+    "sale_id": "sale_8429fcb07b",
+    "lead_id": "lead_dbe60a5a71",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 152.61
+  },
+  {
+    "sale_id": "sale_2e852297be",
+    "lead_id": "lead_9b28b5a33f",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 183.23
+  },
+  {
+    "sale_id": "sale_e93b133e97",
+    "lead_id": "lead_7bf2d454c4",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 150.16
+  },
+  {
+    "sale_id": "sale_82f80c9d28",
+    "lead_id": "lead_27b65795da",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 167.96
+  },
+  {
+    "sale_id": "sale_acd48b4485",
+    "lead_id": "lead_d7e9f70867",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 169.24
+  },
+  {
+    "sale_id": "sale_692ee2a2b7",
+    "lead_id": "lead_6db2abd26e",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 142.51
+  },
+  {
+    "sale_id": "sale_9df6fe772b",
+    "lead_id": "lead_8e0858c2dd",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 173.93
+  },
+  {
+    "sale_id": "sale_9936397ee7",
+    "lead_id": "lead_b213355a6a",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-30",
+    "amount": 138.13
+  },
+  {
+    "sale_id": "sale_9e69122fd5",
+    "lead_id": "lead_41829c67fd",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 172.71
+  },
+  {
+    "sale_id": "sale_70da4d13c6",
+    "lead_id": "lead_486e44cd02",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 174.58
+  },
+  {
+    "sale_id": "sale_c9a8a3773a",
+    "lead_id": "lead_3e9bd35c93",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 142.15
+  },
+  {
+    "sale_id": "sale_3724dc736b",
+    "lead_id": "lead_75ca6c95e5",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 136.26
+  },
+  {
+    "sale_id": "sale_b1142b13ad",
+    "lead_id": "lead_31a09540cd",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 151.39
+  },
+  {
+    "sale_id": "sale_dedd7ad31a",
+    "lead_id": "lead_ac33d32d62",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 192.9
+  },
+  {
+    "sale_id": "sale_c6d0795c13",
+    "lead_id": "lead_45555328c2",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 153.29
+  },
+  {
+    "sale_id": "sale_448047bd1c",
+    "lead_id": "lead_21d2854078",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 170.89
+  },
+  {
+    "sale_id": "sale_2440ddccfe",
+    "lead_id": "lead_6d5dba6779",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-01",
+    "amount": 163.03
+  },
+  {
+    "sale_id": "sale_e9919cfa26",
+    "lead_id": "lead_fff6967164",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-01",
+    "amount": 160.36
+  },
+  {
+    "sale_id": "sale_f4b0b6542e",
+    "lead_id": "lead_3294e6e2d8",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-01",
+    "amount": 151.14
+  },
+  {
+    "sale_id": "sale_12566e1990",
+    "lead_id": "lead_3778790f72",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-01",
+    "amount": 157.09
+  },
+  {
+    "sale_id": "sale_0111e76e6a",
+    "lead_id": "lead_5c62489e9d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-01",
+    "amount": 153.99
+  },
+  {
+    "sale_id": "sale_456b60487d",
+    "lead_id": "lead_de155d8ab4",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-01",
+    "amount": 193.38
+  },
+  {
+    "sale_id": "sale_0f796d7387",
+    "lead_id": "lead_5f23c25abd",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 141.0
+  },
+  {
+    "sale_id": "sale_442ee71401",
+    "lead_id": "lead_2c503d7977",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 188.33
+  },
+  {
+    "sale_id": "sale_cfa3b928bf",
+    "lead_id": "lead_e109201b31",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 183.89
+  },
+  {
+    "sale_id": "sale_8874428482",
+    "lead_id": "lead_ca14bfb33f",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 157.67
+  },
+  {
+    "sale_id": "sale_1cb6749687",
+    "lead_id": "lead_f6a9c6e0aa",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 162.75
+  },
+  {
+    "sale_id": "sale_50ea6744e8",
+    "lead_id": "lead_14717e1fad",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 189.37
+  },
+  {
+    "sale_id": "sale_4a92316d86",
+    "lead_id": "lead_d24ae4dd66",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 137.57
+  },
+  {
+    "sale_id": "sale_ce9b5fb3fa",
+    "lead_id": "lead_c83458ec2e",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-02",
+    "amount": 176.21
+  },
+  {
+    "sale_id": "sale_dab40ded6a",
+    "lead_id": "lead_496454c41c",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-03",
+    "amount": 186.13
+  },
+  {
+    "sale_id": "sale_691f4c4baa",
+    "lead_id": "lead_df25bb3920",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-03",
+    "amount": 163.15
+  },
+  {
+    "sale_id": "sale_621c45d5ba",
+    "lead_id": "lead_ac10fad928",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-03",
+    "amount": 183.02
+  },
+  {
+    "sale_id": "sale_0de5bc0a63",
+    "lead_id": "lead_397c242481",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-03",
+    "amount": 178.96
+  },
+  {
+    "sale_id": "sale_acf7454516",
+    "lead_id": "lead_1653bda582",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 189.77
+  },
+  {
+    "sale_id": "sale_6eb91bdad1",
+    "lead_id": "lead_e6829691f3",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 194.55
+  },
+  {
+    "sale_id": "sale_9cd4fb5083",
+    "lead_id": "lead_5797fa657d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 138.01
+  },
+  {
+    "sale_id": "sale_2eb627dd24",
+    "lead_id": "lead_0f8ab6cbc0",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 141.42
+  },
+  {
+    "sale_id": "sale_65cb4b44de",
+    "lead_id": "lead_2466640697",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 173.59
+  },
+  {
+    "sale_id": "sale_a0e0034ebd",
+    "lead_id": "lead_abb8046171",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 157.09
+  },
+  {
+    "sale_id": "sale_ce9c169d29",
+    "lead_id": "lead_6a99d2e953",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-05",
+    "amount": 167.98
+  },
+  {
+    "sale_id": "sale_164c5f57ce",
+    "lead_id": "lead_c9571aa7a7",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-06",
+    "amount": 147.07
+  },
+  {
+    "sale_id": "sale_4a0cbf3bf1",
+    "lead_id": "lead_c044c583d9",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-06",
+    "amount": 190.55
+  },
+  {
+    "sale_id": "sale_448bf34c64",
+    "lead_id": "lead_7730106f23",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-06",
+    "amount": 167.09
+  },
+  {
+    "sale_id": "sale_41d69b24a7",
+    "lead_id": "lead_441e8db082",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-06",
+    "amount": 173.7
+  },
+  {
+    "sale_id": "sale_efc05e0b32",
+    "lead_id": "lead_ecebfdd21d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-06",
+    "amount": 167.33
+  },
+  {
+    "sale_id": "sale_d14187a4f4",
+    "lead_id": "lead_21e85d284b",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-06",
+    "amount": 140.07
+  },
+  {
+    "sale_id": "sale_931e6469d1",
+    "lead_id": "lead_07b66f8d28",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 150.05
+  },
+  {
+    "sale_id": "sale_33497bf59f",
+    "lead_id": "lead_51f4d5cac1",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 154.02
+  },
+  {
+    "sale_id": "sale_1f68b709fd",
+    "lead_id": "lead_e81f786a17",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 173.3
+  },
+  {
+    "sale_id": "sale_71bbb1e6c5",
+    "lead_id": "lead_17bdf37e3d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 167.76
+  },
+  {
+    "sale_id": "sale_f2ced4b9c9",
+    "lead_id": "lead_f9531a87bf",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 185.5
+  },
+  {
+    "sale_id": "sale_caec1121b7",
+    "lead_id": "lead_c9a91f9714",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 161.38
+  },
+  {
+    "sale_id": "sale_9b079c6a7e",
+    "lead_id": "lead_a8214bcc8d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-07",
+    "amount": 175.01
+  },
+  {
+    "sale_id": "sale_87b9fb7691",
+    "lead_id": "lead_4a43406192",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-08",
+    "amount": 137.52
+  },
+  {
+    "sale_id": "sale_b7f34e5cf1",
+    "lead_id": "lead_eb4cad72b8",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-08",
+    "amount": 156.38
+  },
+  {
+    "sale_id": "sale_8384642959",
+    "lead_id": "lead_8b43b08f8a",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-08",
+    "amount": 155.14
+  },
+  {
+    "sale_id": "sale_28b16ba328",
+    "lead_id": "lead_862053c174",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-08",
+    "amount": 175.03
+  },
+  {
+    "sale_id": "sale_6590b2df3c",
+    "lead_id": "lead_89cd0b7467",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 179.16
+  },
+  {
+    "sale_id": "sale_1cb46a64fe",
+    "lead_id": "lead_94f318ea03",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 189.43
+  },
+  {
+    "sale_id": "sale_db7ce37f65",
+    "lead_id": "lead_167dc0b28c",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 160.65
+  },
+  {
+    "sale_id": "sale_af2c1c9aba",
+    "lead_id": "lead_4724b46fe4",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 168.6
+  },
+  {
+    "sale_id": "sale_dc3227149a",
+    "lead_id": "lead_679af355d3",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 151.75
+  },
+  {
+    "sale_id": "sale_d0b8e0feb1",
+    "lead_id": "lead_dae4d1e867",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 179.78
+  },
+  {
+    "sale_id": "sale_77a2a0b241",
+    "lead_id": "lead_508b7c1e0a",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 149.47
+  },
+  {
+    "sale_id": "sale_ce2ca34029",
+    "lead_id": "lead_cc4679c931",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-10",
+    "amount": 183.61
+  },
+  {
+    "sale_id": "sale_7e802dc1e2",
+    "lead_id": "lead_e7f3970608",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-10",
+    "amount": 163.92
+  },
+  {
+    "sale_id": "sale_14d59254e2",
+    "lead_id": "lead_95ca76d3f5",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-10",
+    "amount": 192.41
+  },
+  {
+    "sale_id": "sale_d97b8ad49b",
+    "lead_id": "lead_f17576287c",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-10",
+    "amount": 185.04
+  },
+  {
+    "sale_id": "sale_2b1762c685",
+    "lead_id": "lead_d073d4b8cf",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-11",
+    "amount": 157.1
+  },
+  {
+    "sale_id": "sale_77a8f43edd",
+    "lead_id": "lead_e1a8405c21",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-11",
+    "amount": 147.84
+  },
+  {
+    "sale_id": "sale_7a728bb08c",
+    "lead_id": "lead_35777073ac",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-11",
+    "amount": 184.19
+  },
+  {
+    "sale_id": "sale_702083ae5f",
+    "lead_id": "lead_2f6de348b3",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-11",
+    "amount": 140.0
+  },
+  {
+    "sale_id": "sale_ef926f2bfd",
+    "lead_id": "lead_359d2da381",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-11",
+    "amount": 179.25
+  },
+  {
+    "sale_id": "sale_68f6421036",
+    "lead_id": "lead_cfc8856e1e",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 188.21
+  },
+  {
+    "sale_id": "sale_32e0ea0a1a",
+    "lead_id": "lead_342457d8bc",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 187.38
+  },
+  {
+    "sale_id": "sale_8fcddd6ca5",
+    "lead_id": "lead_88d18ffc80",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 142.35
+  },
+  {
+    "sale_id": "sale_c87644a0dd",
+    "lead_id": "lead_5dbb1c3559",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 150.2
+  },
+  {
+    "sale_id": "sale_8473d141de",
+    "lead_id": "lead_d77c631afb",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 166.69
+  },
+  {
+    "sale_id": "sale_ade8fba4a8",
+    "lead_id": "lead_2d39b0c690",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 157.28
+  },
+  {
+    "sale_id": "sale_e25bb08bc0",
+    "lead_id": "lead_33f723212b",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 190.98
+  },
+  {
+    "sale_id": "sale_dea3f234dc",
+    "lead_id": "lead_6819ef5767",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-12",
+    "amount": 174.87
+  },
+  {
+    "sale_id": "sale_259a346ffb",
+    "lead_id": "lead_345f110d3f",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 153.39
+  },
+  {
+    "sale_id": "sale_5d5d14b5ed",
+    "lead_id": "lead_75f81a053f",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 182.22
+  },
+  {
+    "sale_id": "sale_07fe521644",
+    "lead_id": "lead_eaec505c50",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 142.7
+  },
+  {
+    "sale_id": "sale_092ab5545f",
+    "lead_id": "lead_42ce3e191c",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 169.44
+  },
+  {
+    "sale_id": "sale_7fcee194a1",
+    "lead_id": "lead_02af8de897",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 171.47
+  },
+  {
+    "sale_id": "sale_67116ae69b",
+    "lead_id": "lead_4d15e7a273",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 164.87
+  },
+  {
+    "sale_id": "sale_e7cbdd826d",
+    "lead_id": "lead_0faf5747e0",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 164.51
+  },
+  {
+    "sale_id": "sale_63dc2f6726",
+    "lead_id": "lead_ec5b43d176",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-14",
+    "amount": 152.72
+  },
+  {
+    "sale_id": "sale_a12815f61b",
+    "lead_id": "lead_6d84af10a5",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-14",
+    "amount": 168.32
+  },
+  {
+    "sale_id": "sale_7e975c3525",
+    "lead_id": "lead_8d20dcc12d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-14",
+    "amount": 180.69
+  },
+  {
+    "sale_id": "sale_987009a864",
+    "lead_id": "lead_28de449500",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-14",
+    "amount": 140.87
+  },
+  {
+    "sale_id": "sale_b238e43395",
+    "lead_id": "lead_4426440a50",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-14",
+    "amount": 141.96
+  },
+  {
+    "sale_id": "sale_4f78b304cb",
+    "lead_id": "lead_950b843ca2",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-14",
+    "amount": 187.46
+  },
+  {
+    "sale_id": "sale_d17616601e",
+    "lead_id": "lead_65231d0435",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 173.7
+  },
+  {
+    "sale_id": "sale_a0ba1e71cf",
+    "lead_id": "lead_a03f8331c5",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 160.7
+  },
+  {
+    "sale_id": "sale_571d771ada",
+    "lead_id": "lead_83b828170d",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 178.57
+  },
+  {
+    "sale_id": "sale_bf23942c9c",
+    "lead_id": "lead_986a6be787",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 165.46
+  },
+  {
+    "sale_id": "sale_c25e1b9640",
+    "lead_id": "lead_548ba9faab",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 151.25
+  },
+  {
+    "sale_id": "sale_813747b165",
+    "lead_id": "lead_ad30555a07",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 188.42
+  },
+  {
+    "sale_id": "sale_6977a0a8ce",
+    "lead_id": "lead_2fbf9db5b7",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 165.64
+  },
+  {
+    "sale_id": "sale_af99127948",
+    "lead_id": "lead_9bbefb3514",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 147.49
+  },
+  {
+    "sale_id": "sale_ed282c7519",
+    "lead_id": "lead_9021577045",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 156.62
+  },
+  {
+    "sale_id": "sale_9972c04f52",
+    "lead_id": "lead_b98c87afe8",
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 155.55
+  },
+  {
+    "sale_id": "sale_e2edc33f80",
+    "lead_id": "lead_6ae5a0a32d",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-08-26",
+    "amount": 175.18
+  },
+  {
+    "sale_id": "sale_8e863a75a9",
+    "lead_id": "lead_a601d495a5",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-08-31",
+    "amount": 175.37
+  },
+  {
+    "sale_id": "sale_1cccac9561",
+    "lead_id": "lead_970111ca35",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-09-04",
+    "amount": 173.1
+  },
+  {
+    "sale_id": "sale_67aed2becb",
+    "lead_id": "lead_1bbdaaa854",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-09-05",
+    "amount": 178.43
+  },
+  {
+    "sale_id": "sale_50de0b1f70",
+    "lead_id": "lead_40730497f3",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-09-09",
+    "amount": 169.29
+  },
+  {
+    "sale_id": "sale_53bec978e4",
+    "lead_id": "lead_b8896bdaaf",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-09-10",
+    "amount": 192.58
+  },
+  {
+    "sale_id": "sale_2e0fb22674",
+    "lead_id": "lead_f37a032b16",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-09-13",
+    "amount": 194.32
+  },
+  {
+    "sale_id": "sale_1c853707ff",
+    "lead_id": "lead_64b90d7603",
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "sale_date": "2026-09-15",
+    "amount": 150.44
+  },
+  {
+    "sale_id": "sale_298549e353",
+    "lead_id": "lead_aa5fd30c64",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-26",
+    "amount": 149.06
+  },
+  {
+    "sale_id": "sale_66800640bb",
+    "lead_id": "lead_2fe78e9052",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-26",
+    "amount": 194.21
+  },
+  {
+    "sale_id": "sale_d86cb5be41",
+    "lead_id": "lead_940360d459",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-27",
+    "amount": 138.0
+  },
+  {
+    "sale_id": "sale_723f14db4e",
+    "lead_id": "lead_19f7878d7d",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-27",
+    "amount": 142.48
+  },
+  {
+    "sale_id": "sale_f573996a90",
+    "lead_id": "lead_6dfc4c50f3",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-28",
+    "amount": 143.61
+  },
+  {
+    "sale_id": "sale_aa850b602b",
+    "lead_id": "lead_3b0f3b2acd",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-29",
+    "amount": 148.2
+  },
+  {
+    "sale_id": "sale_4d1391964e",
+    "lead_id": "lead_263298fc7e",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-29",
+    "amount": 167.15
+  },
+  {
+    "sale_id": "sale_78f03649ac",
+    "lead_id": "lead_30dad2c17e",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-29",
+    "amount": 189.37
+  },
+  {
+    "sale_id": "sale_b648044bc1",
+    "lead_id": "lead_fd31a3de9d",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-08-31",
+    "amount": 156.04
+  },
+  {
+    "sale_id": "sale_4571ca07a5",
+    "lead_id": "lead_82364d67be",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-01",
+    "amount": 189.34
+  },
+  {
+    "sale_id": "sale_2df2cfe760",
+    "lead_id": "lead_53c2723ae3",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-03",
+    "amount": 138.55
+  },
+  {
+    "sale_id": "sale_a3a532a5da",
+    "lead_id": "lead_5f4fe9b734",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-04",
+    "amount": 190.44
+  },
+  {
+    "sale_id": "sale_782ccab753",
+    "lead_id": "lead_6fd5fe834d",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-04",
+    "amount": 137.86
+  },
+  {
+    "sale_id": "sale_7d1e92dc26",
+    "lead_id": "lead_4d0bfd4247",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-04",
+    "amount": 166.64
+  },
+  {
+    "sale_id": "sale_e7b4a42b2d",
+    "lead_id": "lead_f9e81b8d9d",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-05",
+    "amount": 172.52
+  },
+  {
+    "sale_id": "sale_74b1a3f772",
+    "lead_id": "lead_d5a3adbd21",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-05",
+    "amount": 172.72
+  },
+  {
+    "sale_id": "sale_b0f6de8fe7",
+    "lead_id": "lead_e70054eedf",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-06",
+    "amount": 137.57
+  },
+  {
+    "sale_id": "sale_0864dfd375",
+    "lead_id": "lead_d29bb9d83e",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-06",
+    "amount": 160.5
+  },
+  {
+    "sale_id": "sale_be076c8c6c",
+    "lead_id": "lead_c9074f229b",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-07",
+    "amount": 161.34
+  },
+  {
+    "sale_id": "sale_58b1421a47",
+    "lead_id": "lead_978e5b8a6a",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-07",
+    "amount": 187.15
+  },
+  {
+    "sale_id": "sale_2bbc85c60b",
+    "lead_id": "lead_914e4da3e2",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-08",
+    "amount": 180.86
+  },
+  {
+    "sale_id": "sale_ed24206e2a",
+    "lead_id": "lead_70ad430c3d",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-08",
+    "amount": 141.76
+  },
+  {
+    "sale_id": "sale_41516944cd",
+    "lead_id": "lead_ec0edc2015",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-08",
+    "amount": 184.16
+  },
+  {
+    "sale_id": "sale_f73aa1980e",
+    "lead_id": "lead_e986695cfb",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-08",
+    "amount": 194.24
+  },
+  {
+    "sale_id": "sale_4d2a290aea",
+    "lead_id": "lead_78aabd05e6",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-09",
+    "amount": 185.11
+  },
+  {
+    "sale_id": "sale_694779d284",
+    "lead_id": "lead_53a0ae0bbe",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-09",
+    "amount": 148.8
+  },
+  {
+    "sale_id": "sale_ade19b125f",
+    "lead_id": "lead_d055f12f45",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-09",
+    "amount": 153.78
+  },
+  {
+    "sale_id": "sale_3e3c9c8521",
+    "lead_id": "lead_8e8a17197c",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-10",
+    "amount": 163.49
+  },
+  {
+    "sale_id": "sale_ba0647e7c0",
+    "lead_id": "lead_6f590a7e4f",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-10",
+    "amount": 164.25
+  },
+  {
+    "sale_id": "sale_1fe8c24748",
+    "lead_id": "lead_7442172909",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-11",
+    "amount": 144.35
+  },
+  {
+    "sale_id": "sale_dc901cadde",
+    "lead_id": "lead_324ef5ae7a",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-11",
+    "amount": 152.56
+  },
+  {
+    "sale_id": "sale_addae2839b",
+    "lead_id": "lead_903d5fd0ca",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-12",
+    "amount": 158.76
+  },
+  {
+    "sale_id": "sale_99179c2927",
+    "lead_id": "lead_a1ee2fbb64",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-12",
+    "amount": 163.7
+  },
+  {
+    "sale_id": "sale_7967693d87",
+    "lead_id": "lead_0f4a566f9e",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-12",
+    "amount": 169.76
+  },
+  {
+    "sale_id": "sale_9d8de9af1f",
+    "lead_id": "lead_6ca71525e3",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-13",
+    "amount": 155.81
+  },
+  {
+    "sale_id": "sale_ea77873339",
+    "lead_id": "lead_4750ca64ec",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-14",
+    "amount": 147.09
+  },
+  {
+    "sale_id": "sale_a26eb3cea9",
+    "lead_id": "lead_9b527bdb03",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-15",
+    "amount": 157.47
+  },
+  {
+    "sale_id": "sale_ac9f10f165",
+    "lead_id": "lead_645d583a78",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-15",
+    "amount": 180.73
+  },
+  {
+    "sale_id": "sale_e2dac2bacd",
+    "lead_id": "lead_42141fd071",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "sale_date": "2026-09-15",
+    "amount": 158.74
+  },
+  {
+    "sale_id": "sale_ebaf662a9b",
+    "lead_id": "lead_e7efe6baaa",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-26",
+    "amount": 167.08
+  },
+  {
+    "sale_id": "sale_6b6891d5e4",
+    "lead_id": "lead_71022cfffc",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-27",
+    "amount": 154.88
+  },
+  {
+    "sale_id": "sale_013acce8a6",
+    "lead_id": "lead_a0efab7724",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-27",
+    "amount": 182.02
+  },
+  {
+    "sale_id": "sale_2fba84adf1",
+    "lead_id": "lead_a6d06b2618",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-27",
+    "amount": 175.61
+  },
+  {
+    "sale_id": "sale_2d3d7b2a01",
+    "lead_id": "lead_7e1b617296",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-27",
+    "amount": 149.94
+  },
+  {
+    "sale_id": "sale_7219a32111",
+    "lead_id": "lead_63db34fe28",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-28",
+    "amount": 188.36
+  },
+  {
+    "sale_id": "sale_af7cb89351",
+    "lead_id": "lead_81f6b23e3a",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-28",
+    "amount": 194.43
+  },
+  {
+    "sale_id": "sale_dd969d8c6c",
+    "lead_id": "lead_4b0c21450d",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-28",
+    "amount": 188.99
+  },
+  {
+    "sale_id": "sale_6350268d5c",
+    "lead_id": "lead_6f59f4c1ed",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-28",
+    "amount": 175.1
+  },
+  {
+    "sale_id": "sale_56dd4e7f7c",
+    "lead_id": "lead_c3620901d3",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-28",
+    "amount": 193.11
+  },
+  {
+    "sale_id": "sale_b2b34555c1",
+    "lead_id": "lead_181162eb1d",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-29",
+    "amount": 187.67
+  },
+  {
+    "sale_id": "sale_3db6b6241e",
+    "lead_id": "lead_108e709f6f",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-29",
+    "amount": 164.33
+  },
+  {
+    "sale_id": "sale_8ef6232832",
+    "lead_id": "lead_e5129b6267",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-29",
+    "amount": 140.11
+  },
+  {
+    "sale_id": "sale_7eb1a93f76",
+    "lead_id": "lead_82f2c148de",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-30",
+    "amount": 153.14
+  },
+  {
+    "sale_id": "sale_73bb368205",
+    "lead_id": "lead_e78de82982",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-30",
+    "amount": 167.51
+  },
+  {
+    "sale_id": "sale_53ad21d606",
+    "lead_id": "lead_3c160d079f",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-31",
+    "amount": 183.07
+  },
+  {
+    "sale_id": "sale_5b092bf88d",
+    "lead_id": "lead_eaf98b77a9",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-08-31",
+    "amount": 179.71
+  },
+  {
+    "sale_id": "sale_53b854d299",
+    "lead_id": "lead_03f97632a3",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-02",
+    "amount": 192.61
+  },
+  {
+    "sale_id": "sale_8803a6be74",
+    "lead_id": "lead_06dde00b02",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-03",
+    "amount": 153.31
+  },
+  {
+    "sale_id": "sale_1d9536ea9d",
+    "lead_id": "lead_53bfbf4e8c",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-03",
+    "amount": 186.48
+  },
+  {
+    "sale_id": "sale_f9deb8a4f5",
+    "lead_id": "lead_398202d8c9",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-04",
+    "amount": 167.74
+  },
+  {
+    "sale_id": "sale_24271bf97a",
+    "lead_id": "lead_d97f5dfec5",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-04",
+    "amount": 176.8
+  },
+  {
+    "sale_id": "sale_26edea2154",
+    "lead_id": "lead_7ae833fce7",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-04",
+    "amount": 165.56
+  },
+  {
+    "sale_id": "sale_6df5bda1e1",
+    "lead_id": "lead_e2c17195dc",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-04",
+    "amount": 172.34
+  },
+  {
+    "sale_id": "sale_25f8a9153e",
+    "lead_id": "lead_91ab63dfd9",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-04",
+    "amount": 163.68
+  },
+  {
+    "sale_id": "sale_743349775a",
+    "lead_id": "lead_fcec7fdd98",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-04",
+    "amount": 179.9
+  },
+  {
+    "sale_id": "sale_b6d2046e31",
+    "lead_id": "lead_13f7a2035b",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-05",
+    "amount": 151.56
+  },
+  {
+    "sale_id": "sale_e705b03624",
+    "lead_id": "lead_7c8a35ceb6",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-05",
+    "amount": 194.18
+  },
+  {
+    "sale_id": "sale_0d8cc1244e",
+    "lead_id": "lead_2692d4ef12",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-06",
+    "amount": 147.37
+  },
+  {
+    "sale_id": "sale_2f78f1c5fb",
+    "lead_id": "lead_1cb4075571",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-06",
+    "amount": 193.98
+  },
+  {
+    "sale_id": "sale_e68e14a0ab",
+    "lead_id": "lead_8a3e8378e6",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-06",
+    "amount": 175.08
+  },
+  {
+    "sale_id": "sale_37e630a914",
+    "lead_id": "lead_f65a5abada",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-07",
+    "amount": 167.44
+  },
+  {
+    "sale_id": "sale_6e3f779999",
+    "lead_id": "lead_28cdffa037",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-08",
+    "amount": 188.68
+  },
+  {
+    "sale_id": "sale_69db044932",
+    "lead_id": "lead_9978add193",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-10",
+    "amount": 139.83
+  },
+  {
+    "sale_id": "sale_86951984d0",
+    "lead_id": "lead_24e74cbc23",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-11",
+    "amount": 166.06
+  },
+  {
+    "sale_id": "sale_c1b2dc4559",
+    "lead_id": "lead_8a5b10d509",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-14",
+    "amount": 135.34
+  },
+  {
+    "sale_id": "sale_9a16a1fa37",
+    "lead_id": "lead_95eb9c0de3",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-15",
+    "amount": 138.32
+  },
+  {
+    "sale_id": "sale_8e413dcb1f",
+    "lead_id": "lead_2aaba5dcef",
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "sale_date": "2026-09-15",
+    "amount": 179.24
+  },
+  {
+    "sale_id": "sale_0e6cf656cc",
+    "lead_id": "lead_c87182acf6",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-26",
+    "amount": 173.94
+  },
+  {
+    "sale_id": "sale_4f9cb993fa",
+    "lead_id": "lead_c3359e6744",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-26",
+    "amount": 189.98
+  },
+  {
+    "sale_id": "sale_9e483f4b50",
+    "lead_id": "lead_26d1f10537",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-26",
+    "amount": 135.11
+  },
+  {
+    "sale_id": "sale_02eb28707b",
+    "lead_id": "lead_2e19392395",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-26",
+    "amount": 135.2
+  },
+  {
+    "sale_id": "sale_eda6c3b588",
+    "lead_id": "lead_736639101d",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-27",
+    "amount": 146.79
+  },
+  {
+    "sale_id": "sale_26de9c16ce",
+    "lead_id": "lead_887b9bfa93",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-28",
+    "amount": 142.83
+  },
+  {
+    "sale_id": "sale_e6fb9277b6",
+    "lead_id": "lead_6f1df36bf8",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-30",
+    "amount": 146.6
+  },
+  {
+    "sale_id": "sale_de6e275042",
+    "lead_id": "lead_3be7898bd3",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-30",
+    "amount": 171.71
+  },
+  {
+    "sale_id": "sale_c4d3bfaad6",
+    "lead_id": "lead_48db98fcf7",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-30",
+    "amount": 159.6
+  },
+  {
+    "sale_id": "sale_66afff130e",
+    "lead_id": "lead_a99d7be203",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-08-31",
+    "amount": 167.71
+  },
+  {
+    "sale_id": "sale_9025d96339",
+    "lead_id": "lead_1c3f895f5c",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-02",
+    "amount": 160.97
+  },
+  {
+    "sale_id": "sale_2dcb734917",
+    "lead_id": "lead_29e908e612",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-02",
+    "amount": 173.74
+  },
+  {
+    "sale_id": "sale_cc1545162f",
+    "lead_id": "lead_afc262cf4e",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-03",
+    "amount": 171.01
+  },
+  {
+    "sale_id": "sale_5a5b56f32e",
+    "lead_id": "lead_9dff0fad9e",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-03",
+    "amount": 172.88
+  },
+  {
+    "sale_id": "sale_119c415100",
+    "lead_id": "lead_e826f45d6a",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-03",
+    "amount": 179.21
+  },
+  {
+    "sale_id": "sale_8cb665ff4b",
+    "lead_id": "lead_654ecc5ea7",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-04",
+    "amount": 187.62
+  },
+  {
+    "sale_id": "sale_35c8b96ca3",
+    "lead_id": "lead_8fa543d03a",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-04",
+    "amount": 144.05
+  },
+  {
+    "sale_id": "sale_d07b1c7456",
+    "lead_id": "lead_c84fa530bb",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-04",
+    "amount": 184.24
+  },
+  {
+    "sale_id": "sale_889d9b437c",
+    "lead_id": "lead_7d5f4a5fa2",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-04",
+    "amount": 149.1
+  },
+  {
+    "sale_id": "sale_929263bc9b",
+    "lead_id": "lead_10a4c62f2b",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-04",
+    "amount": 137.37
+  },
+  {
+    "sale_id": "sale_ac3e2c2220",
+    "lead_id": "lead_9b8722c77f",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-05",
+    "amount": 172.17
+  },
+  {
+    "sale_id": "sale_3aa2d089cf",
+    "lead_id": "lead_6feb15ade2",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-05",
+    "amount": 191.28
+  },
+  {
+    "sale_id": "sale_8a1f00957c",
+    "lead_id": "lead_3b91545b65",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-06",
+    "amount": 137.7
+  },
+  {
+    "sale_id": "sale_55dcdcedc9",
+    "lead_id": "lead_da373afc1f",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-06",
+    "amount": 158.84
+  },
+  {
+    "sale_id": "sale_8f19cd77e4",
+    "lead_id": "lead_f4579f4400",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-06",
+    "amount": 153.36
+  },
+  {
+    "sale_id": "sale_3209658cb3",
+    "lead_id": "lead_94fd870bd0",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-06",
+    "amount": 145.76
+  },
+  {
+    "sale_id": "sale_6df30cbd4c",
+    "lead_id": "lead_68ff60de94",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-06",
+    "amount": 167.52
+  },
+  {
+    "sale_id": "sale_188099f8b0",
+    "lead_id": "lead_0d72f2d9db",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-07",
+    "amount": 153.77
+  },
+  {
+    "sale_id": "sale_f294349d21",
+    "lead_id": "lead_9530226b70",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-07",
+    "amount": 140.06
+  },
+  {
+    "sale_id": "sale_ca352ed387",
+    "lead_id": "lead_74453c19b2",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-07",
+    "amount": 146.99
+  },
+  {
+    "sale_id": "sale_cebbb8da71",
+    "lead_id": "lead_adc4fa397e",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-07",
+    "amount": 175.55
+  },
+  {
+    "sale_id": "sale_0c48a25490",
+    "lead_id": "lead_4dc67121f4",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-08",
+    "amount": 191.95
+  },
+  {
+    "sale_id": "sale_c8f35db4e4",
+    "lead_id": "lead_3569205d18",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-08",
+    "amount": 177.57
+  },
+  {
+    "sale_id": "sale_1b7d6b97cf",
+    "lead_id": "lead_a9d7898bbf",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-08",
+    "amount": 162.66
+  },
+  {
+    "sale_id": "sale_281de9f9d7",
+    "lead_id": "lead_24086713b5",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-08",
+    "amount": 187.91
+  },
+  {
+    "sale_id": "sale_dcf4b308dc",
+    "lead_id": "lead_30c2c65bf9",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-09",
+    "amount": 178.06
+  },
+  {
+    "sale_id": "sale_f208619b3e",
+    "lead_id": "lead_b606e58040",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-09",
+    "amount": 146.08
+  },
+  {
+    "sale_id": "sale_a3c855b621",
+    "lead_id": "lead_98876f0b25",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-10",
+    "amount": 180.58
+  },
+  {
+    "sale_id": "sale_7fdc41fb95",
+    "lead_id": "lead_4f81968358",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-10",
+    "amount": 174.19
+  },
+  {
+    "sale_id": "sale_6ac3c91cfd",
+    "lead_id": "lead_e5def03e49",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-11",
+    "amount": 171.21
+  },
+  {
+    "sale_id": "sale_cfaf566642",
+    "lead_id": "lead_0ec26a3f1b",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-11",
+    "amount": 192.43
+  },
+  {
+    "sale_id": "sale_beb74cc840",
+    "lead_id": "lead_8ac08fcb06",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-12",
+    "amount": 147.39
+  },
+  {
+    "sale_id": "sale_021992fe90",
+    "lead_id": "lead_c283dc2b76",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-12",
+    "amount": 152.76
+  },
+  {
+    "sale_id": "sale_8847130372",
+    "lead_id": "lead_858e50edac",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-12",
+    "amount": 179.24
+  },
+  {
+    "sale_id": "sale_aa009c0d1c",
+    "lead_id": "lead_9b69ed1dc1",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-13",
+    "amount": 163.65
+  },
+  {
+    "sale_id": "sale_7bc17c3315",
+    "lead_id": "lead_bb36e7aa13",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-13",
+    "amount": 161.56
+  },
+  {
+    "sale_id": "sale_48bd5ca926",
+    "lead_id": "lead_5b300de800",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-14",
+    "amount": 187.45
+  },
+  {
+    "sale_id": "sale_cad5ee54e2",
+    "lead_id": "lead_6ca474126d",
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "sale_date": "2026-09-15",
+    "amount": 151.0
+  },
+  {
+    "sale_id": "sale_34d5f25a74",
+    "lead_id": "lead_23ce0de3dd",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-08-28",
+    "amount": 172.22
+  },
+  {
+    "sale_id": "sale_4e8ff4e0b8",
+    "lead_id": "lead_1f9deadcf8",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-01",
+    "amount": 173.31
+  },
+  {
+    "sale_id": "sale_a013679e8c",
+    "lead_id": "lead_463e478c91",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-04",
+    "amount": 191.91
+  },
+  {
+    "sale_id": "sale_53a79c7a49",
+    "lead_id": "lead_f7ebe19f06",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-04",
+    "amount": 161.14
+  },
+  {
+    "sale_id": "sale_d8f9bd9b20",
+    "lead_id": "lead_99e08f12cf",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-05",
+    "amount": 184.7
+  },
+  {
+    "sale_id": "sale_c89707cbc5",
+    "lead_id": "lead_f8d543f2fe",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-06",
+    "amount": 172.35
+  },
+  {
+    "sale_id": "sale_f63f3b47f7",
+    "lead_id": "lead_7f45efa00b",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-10",
+    "amount": 172.32
+  },
+  {
+    "sale_id": "sale_db9fba5a5b",
+    "lead_id": "lead_48913da9f3",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-10",
+    "amount": 167.21
+  },
+  {
+    "sale_id": "sale_fd3fd2cb19",
+    "lead_id": "lead_179cbbbb2e",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "sale_date": "2026-09-12",
+    "amount": 187.33
+  },
+  {
+    "sale_id": "sale_a704fa09e5",
+    "lead_id": "lead_b2a8c80074",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-26",
+    "amount": 138.48
+  },
+  {
+    "sale_id": "sale_9166b691c5",
+    "lead_id": "lead_a63bdeb833",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-26",
+    "amount": 184.61
+  },
+  {
+    "sale_id": "sale_c482f6e3a7",
+    "lead_id": "lead_02ca2157b9",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-26",
+    "amount": 191.86
+  },
+  {
+    "sale_id": "sale_7daef05f8e",
+    "lead_id": "lead_8f44269a85",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-26",
+    "amount": 143.66
+  },
+  {
+    "sale_id": "sale_e92b4091d2",
+    "lead_id": "lead_93ecc0b6d3",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-26",
+    "amount": 145.84
+  },
+  {
+    "sale_id": "sale_7b2818114b",
+    "lead_id": "lead_2724e7c128",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-27",
+    "amount": 153.85
+  },
+  {
+    "sale_id": "sale_3ad3a52c9c",
+    "lead_id": "lead_fd557c700f",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-27",
+    "amount": 144.12
+  },
+  {
+    "sale_id": "sale_c710b329ac",
+    "lead_id": "lead_b22cc6acff",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-28",
+    "amount": 194.59
+  },
+  {
+    "sale_id": "sale_a8e63e1ed3",
+    "lead_id": "lead_a273059dde",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-28",
+    "amount": 181.09
+  },
+  {
+    "sale_id": "sale_7fa0de4745",
+    "lead_id": "lead_06b8708f9e",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-28",
+    "amount": 187.29
+  },
+  {
+    "sale_id": "sale_cb68bea727",
+    "lead_id": "lead_bd58e673fc",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-28",
+    "amount": 188.0
+  },
+  {
+    "sale_id": "sale_4172fd4262",
+    "lead_id": "lead_d9024aab56",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-29",
+    "amount": 170.35
+  },
+  {
+    "sale_id": "sale_5ef39ada49",
+    "lead_id": "lead_37d996173c",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-29",
+    "amount": 157.16
+  },
+  {
+    "sale_id": "sale_6291f238c6",
+    "lead_id": "lead_1695fbbd1c",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-29",
+    "amount": 187.47
+  },
+  {
+    "sale_id": "sale_38f2108d0b",
+    "lead_id": "lead_d94bae7339",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-29",
+    "amount": 139.04
+  },
+  {
+    "sale_id": "sale_68c216233f",
+    "lead_id": "lead_45a88055cd",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-30",
+    "amount": 141.09
+  },
+  {
+    "sale_id": "sale_d77ca68b58",
+    "lead_id": "lead_0be0e64157",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-31",
+    "amount": 186.8
+  },
+  {
+    "sale_id": "sale_8ceab7b456",
+    "lead_id": "lead_d3f15f51a4",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-08-31",
+    "amount": 181.74
+  },
+  {
+    "sale_id": "sale_15869d9f6c",
+    "lead_id": "lead_a0763aa6a0",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-01",
+    "amount": 189.02
+  },
+  {
+    "sale_id": "sale_2a506ea807",
+    "lead_id": "lead_c4c106ccac",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-02",
+    "amount": 143.77
+  },
+  {
+    "sale_id": "sale_b8dcfe7e55",
+    "lead_id": "lead_1efb21cbb8",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-02",
+    "amount": 166.59
+  },
+  {
+    "sale_id": "sale_b6b8b52788",
+    "lead_id": "lead_0f5357f892",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-03",
+    "amount": 189.6
+  },
+  {
+    "sale_id": "sale_01045208db",
+    "lead_id": "lead_8aca4485b7",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-03",
+    "amount": 135.24
+  },
+  {
+    "sale_id": "sale_6379245482",
+    "lead_id": "lead_df5a8b7fff",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-04",
+    "amount": 168.7
+  },
+  {
+    "sale_id": "sale_feada008e9",
+    "lead_id": "lead_52a090cbd1",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-05",
+    "amount": 175.17
+  },
+  {
+    "sale_id": "sale_055d08edd5",
+    "lead_id": "lead_8db0ccbea2",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-06",
+    "amount": 136.08
+  },
+  {
+    "sale_id": "sale_a174fc1018",
+    "lead_id": "lead_f1f59147ba",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-06",
+    "amount": 193.3
+  },
+  {
+    "sale_id": "sale_6cc641b68f",
+    "lead_id": "lead_5494d966a8",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-06",
+    "amount": 181.74
+  },
+  {
+    "sale_id": "sale_f2ce502969",
+    "lead_id": "lead_8e91a617e7",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-06",
+    "amount": 189.68
+  },
+  {
+    "sale_id": "sale_fb0e05f5fb",
+    "lead_id": "lead_d03f28d47d",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-06",
+    "amount": 160.52
+  },
+  {
+    "sale_id": "sale_f18d3fe48f",
+    "lead_id": "lead_91760127a6",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-07",
+    "amount": 155.35
+  },
+  {
+    "sale_id": "sale_9ea4296824",
+    "lead_id": "lead_e69db8a951",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-07",
+    "amount": 141.57
+  },
+  {
+    "sale_id": "sale_ecae093a14",
+    "lead_id": "lead_dac12e3532",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-07",
+    "amount": 153.72
+  },
+  {
+    "sale_id": "sale_367fa34d5f",
+    "lead_id": "lead_9afb18f9fc",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-07",
+    "amount": 178.98
+  },
+  {
+    "sale_id": "sale_30e55e9923",
+    "lead_id": "lead_9583933c53",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-08",
+    "amount": 144.79
+  },
+  {
+    "sale_id": "sale_c950dc516c",
+    "lead_id": "lead_aabeece8a6",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-08",
+    "amount": 175.23
+  },
+  {
+    "sale_id": "sale_fc9cd7e3c3",
+    "lead_id": "lead_a8809292d0",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-08",
+    "amount": 162.57
+  },
+  {
+    "sale_id": "sale_aabf0401a6",
+    "lead_id": "lead_de141db3a9",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-09",
+    "amount": 156.4
+  },
+  {
+    "sale_id": "sale_569e357688",
+    "lead_id": "lead_e08f23be37",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-09",
+    "amount": 165.17
+  },
+  {
+    "sale_id": "sale_462dcae1a1",
+    "lead_id": "lead_b005d00cbf",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-09",
+    "amount": 150.85
+  },
+  {
+    "sale_id": "sale_58a51e6102",
+    "lead_id": "lead_3a51d58085",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-09",
+    "amount": 136.35
+  },
+  {
+    "sale_id": "sale_ff9937b934",
+    "lead_id": "lead_60e8343702",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-10",
+    "amount": 156.64
+  },
+  {
+    "sale_id": "sale_5c1b4922c8",
+    "lead_id": "lead_7789d5e332",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-10",
+    "amount": 172.67
+  },
+  {
+    "sale_id": "sale_9a18a16ed4",
+    "lead_id": "lead_3ed6fd2352",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-11",
+    "amount": 165.18
+  },
+  {
+    "sale_id": "sale_b6fec9f8f4",
+    "lead_id": "lead_0a5b3fd165",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-11",
+    "amount": 179.39
+  },
+  {
+    "sale_id": "sale_8d04b34ec7",
+    "lead_id": "lead_db47d51fc7",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-11",
+    "amount": 153.27
+  },
+  {
+    "sale_id": "sale_58e091b95a",
+    "lead_id": "lead_220df2728b",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-12",
+    "amount": 147.64
+  },
+  {
+    "sale_id": "sale_5857b8ec13",
+    "lead_id": "lead_3de3d84ed7",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-13",
+    "amount": 162.05
+  },
+  {
+    "sale_id": "sale_232a730dff",
+    "lead_id": "lead_0933376978",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-13",
+    "amount": 194.93
+  },
+  {
+    "sale_id": "sale_8923deb9da",
+    "lead_id": "lead_049be99adb",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-13",
+    "amount": 185.08
+  },
+  {
+    "sale_id": "sale_890e7cbaa3",
+    "lead_id": "lead_3e4295470e",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-14",
+    "amount": 157.4
+  },
+  {
+    "sale_id": "sale_3736bfd1d3",
+    "lead_id": "lead_42e1cc6076",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-15",
+    "amount": 189.36
+  },
+  {
+    "sale_id": "sale_b263a055b1",
+    "lead_id": "lead_e55f10c1e2",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-15",
+    "amount": 140.47
+  },
+  {
+    "sale_id": "sale_47c4cc2f36",
+    "lead_id": "lead_0ceef7f4dc",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-15",
+    "amount": 188.24
+  },
+  {
+    "sale_id": "sale_66877dbd51",
+    "lead_id": "lead_f00f4374c8",
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "sale_date": "2026-09-15",
+    "amount": 142.55
+  },
+  {
+    "sale_id": "sale_d1a9b9f04b",
+    "lead_id": "lead_6dbe81e33f",
+    "ad_id": "ad_insufficient_data",
+    "ad_set_id": "adset_insufficient_data",
+    "campaign_id": "cmp_insufficient_data",
+    "sale_date": "2026-09-14",
+    "amount": 174.65
+  },
+  {
+    "sale_id": "sale_67d82420b1",
+    "lead_id": "lead_9bf1a2a59f",
+    "ad_id": "ad_insufficient_data",
+    "ad_set_id": "adset_insufficient_data",
+    "campaign_id": "cmp_insufficient_data",
+    "sale_date": "2026-09-14",
+    "amount": 164.32
+  },
+  {
+    "sale_id": "sale_5b9ecf365c",
+    "lead_id": "lead_656ef5b126",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-26",
+    "amount": 165.38
+  },
+  {
+    "sale_id": "sale_0f0dd355ff",
+    "lead_id": "lead_fca232e20c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-26",
+    "amount": 146.97
+  },
+  {
+    "sale_id": "sale_21c49b1ac6",
+    "lead_id": "lead_ae4b08ade5",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-26",
+    "amount": 140.09
+  },
+  {
+    "sale_id": "sale_539d43c30f",
+    "lead_id": "lead_0aacc1d8ff",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-26",
+    "amount": 170.05
+  },
+  {
+    "sale_id": "sale_6ab18ad8b0",
+    "lead_id": "lead_a4e4eccbca",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-26",
+    "amount": 164.84
+  },
+  {
+    "sale_id": "sale_b103ce0809",
+    "lead_id": "lead_5e3c7d8080",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 171.69
+  },
+  {
+    "sale_id": "sale_872278aaf2",
+    "lead_id": "lead_ed925acb79",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 135.78
+  },
+  {
+    "sale_id": "sale_a34ff3b715",
+    "lead_id": "lead_4f7f056886",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 158.3
+  },
+  {
+    "sale_id": "sale_a19403b9dd",
+    "lead_id": "lead_0928dfcb5c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 167.13
+  },
+  {
+    "sale_id": "sale_14db5aba17",
+    "lead_id": "lead_ea0d146d99",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 145.88
+  },
+  {
+    "sale_id": "sale_fa209fcb1e",
+    "lead_id": "lead_e0ebc1981d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 167.13
+  },
+  {
+    "sale_id": "sale_6637d1eee0",
+    "lead_id": "lead_40cbb8b957",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 181.97
+  },
+  {
+    "sale_id": "sale_ec3b27c907",
+    "lead_id": "lead_d287841aaf",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 193.58
+  },
+  {
+    "sale_id": "sale_8f72d6dd97",
+    "lead_id": "lead_01834a5c58",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-27",
+    "amount": 142.21
+  },
+  {
+    "sale_id": "sale_248394447a",
+    "lead_id": "lead_d3534740f5",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 150.07
+  },
+  {
+    "sale_id": "sale_05f28eed1a",
+    "lead_id": "lead_f9eb54fdea",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 183.02
+  },
+  {
+    "sale_id": "sale_6c7265894f",
+    "lead_id": "lead_54bca3795b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 171.63
+  },
+  {
+    "sale_id": "sale_64668f5550",
+    "lead_id": "lead_3ad58efa8d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 136.15
+  },
+  {
+    "sale_id": "sale_febfa144a1",
+    "lead_id": "lead_639ee84549",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 167.01
+  },
+  {
+    "sale_id": "sale_f8d35d0a7b",
+    "lead_id": "lead_2297e13185",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 137.52
+  },
+  {
+    "sale_id": "sale_1476d9852e",
+    "lead_id": "lead_ca8480e8b0",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 184.44
+  },
+  {
+    "sale_id": "sale_0696b4e6e8",
+    "lead_id": "lead_e8ec78a87c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-28",
+    "amount": 163.73
+  },
+  {
+    "sale_id": "sale_322d5bf9c0",
+    "lead_id": "lead_652ba54b83",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 147.99
+  },
+  {
+    "sale_id": "sale_d094f70cfb",
+    "lead_id": "lead_77825896b4",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 185.8
+  },
+  {
+    "sale_id": "sale_5d651bb7a3",
+    "lead_id": "lead_ef72a4d432",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 167.39
+  },
+  {
+    "sale_id": "sale_1cb4fd18b0",
+    "lead_id": "lead_c5eee01199",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 147.02
+  },
+  {
+    "sale_id": "sale_3f4f429608",
+    "lead_id": "lead_785904a8df",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 169.47
+  },
+  {
+    "sale_id": "sale_f25191d7dc",
+    "lead_id": "lead_4bd21fe7ff",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 169.85
+  },
+  {
+    "sale_id": "sale_273c9b29e8",
+    "lead_id": "lead_c226725c3b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 158.81
+  },
+  {
+    "sale_id": "sale_aa27a64ca8",
+    "lead_id": "lead_9217dc7877",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 166.72
+  },
+  {
+    "sale_id": "sale_2d24b12985",
+    "lead_id": "lead_1f2deb69e0",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 153.63
+  },
+  {
+    "sale_id": "sale_94fba34840",
+    "lead_id": "lead_47fdc1638e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 191.17
+  },
+  {
+    "sale_id": "sale_0e9882da1b",
+    "lead_id": "lead_04210d7e9d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 156.48
+  },
+  {
+    "sale_id": "sale_0bbefb6377",
+    "lead_id": "lead_bf57838861",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 185.77
+  },
+  {
+    "sale_id": "sale_9faa43f07a",
+    "lead_id": "lead_348004be9f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-29",
+    "amount": 162.44
+  },
+  {
+    "sale_id": "sale_e639e2e939",
+    "lead_id": "lead_433a76ccd9",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 173.67
+  },
+  {
+    "sale_id": "sale_fc8bdccead",
+    "lead_id": "lead_d1e1c04930",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 142.13
+  },
+  {
+    "sale_id": "sale_ee806608a8",
+    "lead_id": "lead_10c1fb7ae3",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 174.78
+  },
+  {
+    "sale_id": "sale_2a40ac203f",
+    "lead_id": "lead_e02f450182",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 146.89
+  },
+  {
+    "sale_id": "sale_4cac8b1ea0",
+    "lead_id": "lead_843d80de75",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 178.44
+  },
+  {
+    "sale_id": "sale_8d8839a080",
+    "lead_id": "lead_dbbb432e91",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 166.98
+  },
+  {
+    "sale_id": "sale_1fdd59acfc",
+    "lead_id": "lead_dcb438fcef",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 167.14
+  },
+  {
+    "sale_id": "sale_289d69d041",
+    "lead_id": "lead_24345c334d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 165.66
+  },
+  {
+    "sale_id": "sale_71e003418a",
+    "lead_id": "lead_df350cc81f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 187.97
+  },
+  {
+    "sale_id": "sale_03c2d67d7f",
+    "lead_id": "lead_971c94b309",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-30",
+    "amount": 140.78
+  },
+  {
+    "sale_id": "sale_e0318cdae3",
+    "lead_id": "lead_67e93b5cd2",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 143.04
+  },
+  {
+    "sale_id": "sale_9c3726ad63",
+    "lead_id": "lead_8ebecc18de",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 156.49
+  },
+  {
+    "sale_id": "sale_134ea1e500",
+    "lead_id": "lead_0dcc9d8e75",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 191.26
+  },
+  {
+    "sale_id": "sale_9b5155281a",
+    "lead_id": "lead_ae95b21c73",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 151.02
+  },
+  {
+    "sale_id": "sale_3ed70fc2ec",
+    "lead_id": "lead_2b0e19dfd9",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 149.19
+  },
+  {
+    "sale_id": "sale_8955fcfa59",
+    "lead_id": "lead_bf4731cdca",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 145.86
+  },
+  {
+    "sale_id": "sale_ab441195a2",
+    "lead_id": "lead_2bca93b1db",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 177.88
+  },
+  {
+    "sale_id": "sale_52cc049954",
+    "lead_id": "lead_897ca191c0",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 157.06
+  },
+  {
+    "sale_id": "sale_5faac8fe7b",
+    "lead_id": "lead_f84586a8d6",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 149.11
+  },
+  {
+    "sale_id": "sale_0027c6e8af",
+    "lead_id": "lead_90ea626135",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 135.37
+  },
+  {
+    "sale_id": "sale_652638f1df",
+    "lead_id": "lead_081ee524f8",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 183.35
+  },
+  {
+    "sale_id": "sale_7a21cf6f6e",
+    "lead_id": "lead_5aa174574d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 137.23
+  },
+  {
+    "sale_id": "sale_b13f38c31b",
+    "lead_id": "lead_b7ecc8ce48",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-08-31",
+    "amount": 186.14
+  },
+  {
+    "sale_id": "sale_7bef5827b5",
+    "lead_id": "lead_01f7db2dc0",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 166.98
+  },
+  {
+    "sale_id": "sale_f139a1ebc8",
+    "lead_id": "lead_09026d1126",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 142.15
+  },
+  {
+    "sale_id": "sale_a0c12cfb49",
+    "lead_id": "lead_966c21190e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 137.88
+  },
+  {
+    "sale_id": "sale_c50059f3c2",
+    "lead_id": "lead_228102c402",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 160.23
+  },
+  {
+    "sale_id": "sale_95c7836fab",
+    "lead_id": "lead_ba1fbda1e6",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 136.15
+  },
+  {
+    "sale_id": "sale_57fb9f6ebb",
+    "lead_id": "lead_05470e3c4c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 158.35
+  },
+  {
+    "sale_id": "sale_c00d74bcfe",
+    "lead_id": "lead_f37f0f02fb",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-01",
+    "amount": 169.72
+  },
+  {
+    "sale_id": "sale_abe08197e8",
+    "lead_id": "lead_0c429b5e3a",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 165.04
+  },
+  {
+    "sale_id": "sale_27663508f6",
+    "lead_id": "lead_bff1fe80fd",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 181.81
+  },
+  {
+    "sale_id": "sale_8cb6d67a72",
+    "lead_id": "lead_267fadb271",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 173.22
+  },
+  {
+    "sale_id": "sale_b438a7e2de",
+    "lead_id": "lead_2f4f914306",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 148.16
+  },
+  {
+    "sale_id": "sale_069b928e68",
+    "lead_id": "lead_9377cdb4f9",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 172.18
+  },
+  {
+    "sale_id": "sale_222602dcba",
+    "lead_id": "lead_a68e81914f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 137.79
+  },
+  {
+    "sale_id": "sale_d5c40a0586",
+    "lead_id": "lead_b649a8252a",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 176.05
+  },
+  {
+    "sale_id": "sale_a89425a217",
+    "lead_id": "lead_c11ad287ec",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 170.95
+  },
+  {
+    "sale_id": "sale_9f938e9922",
+    "lead_id": "lead_8c940b1f2c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 136.58
+  },
+  {
+    "sale_id": "sale_1eccea2344",
+    "lead_id": "lead_c877b01a87",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 139.94
+  },
+  {
+    "sale_id": "sale_e058e27964",
+    "lead_id": "lead_d74c18a8ce",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 181.16
+  },
+  {
+    "sale_id": "sale_7b48edf92e",
+    "lead_id": "lead_48c715fd62",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-02",
+    "amount": 144.61
+  },
+  {
+    "sale_id": "sale_35899fc9f7",
+    "lead_id": "lead_9aa6d38dba",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 136.23
+  },
+  {
+    "sale_id": "sale_fe87640152",
+    "lead_id": "lead_5bfa21d0d6",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 154.06
+  },
+  {
+    "sale_id": "sale_73988c142f",
+    "lead_id": "lead_e5a1e091dc",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 173.85
+  },
+  {
+    "sale_id": "sale_16e9372b8c",
+    "lead_id": "lead_7eb766eb50",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 183.02
+  },
+  {
+    "sale_id": "sale_f0c3b39457",
+    "lead_id": "lead_e0bc1d8ef9",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 135.34
+  },
+  {
+    "sale_id": "sale_7fe655eaba",
+    "lead_id": "lead_282cdc35a1",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 136.97
+  },
+  {
+    "sale_id": "sale_2783b496a0",
+    "lead_id": "lead_337ed4dbea",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 189.48
+  },
+  {
+    "sale_id": "sale_f8601fc605",
+    "lead_id": "lead_f14576076d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-03",
+    "amount": 155.21
+  },
+  {
+    "sale_id": "sale_8c787159aa",
+    "lead_id": "lead_5bfb7b78ad",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-04",
+    "amount": 171.33
+  },
+  {
+    "sale_id": "sale_b9d8ce2b25",
+    "lead_id": "lead_970fe28783",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-04",
+    "amount": 161.99
+  },
+  {
+    "sale_id": "sale_7b316629df",
+    "lead_id": "lead_3efc750ff7",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-04",
+    "amount": 151.11
+  },
+  {
+    "sale_id": "sale_87bdf76cd1",
+    "lead_id": "lead_cd699f0b96",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-04",
+    "amount": 173.38
+  },
+  {
+    "sale_id": "sale_8bfc714c53",
+    "lead_id": "lead_a8246b6913",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-04",
+    "amount": 158.33
+  },
+  {
+    "sale_id": "sale_e29a65c19c",
+    "lead_id": "lead_dbf9bb2cc9",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-04",
+    "amount": 148.76
+  },
+  {
+    "sale_id": "sale_d716924026",
+    "lead_id": "lead_4ff90e0f82",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-05",
+    "amount": 142.17
+  },
+  {
+    "sale_id": "sale_d4948fc928",
+    "lead_id": "lead_6c39a4f997",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-05",
+    "amount": 185.13
+  },
+  {
+    "sale_id": "sale_3d262b3306",
+    "lead_id": "lead_25a3a5aefb",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-05",
+    "amount": 180.32
+  },
+  {
+    "sale_id": "sale_d469336398",
+    "lead_id": "lead_cdf0fa3d73",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-05",
+    "amount": 192.31
+  },
+  {
+    "sale_id": "sale_2d84de9271",
+    "lead_id": "lead_6d186d9a5e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-05",
+    "amount": 180.94
+  },
+  {
+    "sale_id": "sale_9fa543c2f5",
+    "lead_id": "lead_193f7e2564",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-05",
+    "amount": 176.65
+  },
+  {
+    "sale_id": "sale_de20c139c8",
+    "lead_id": "lead_9afd7a33ff",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 182.6
+  },
+  {
+    "sale_id": "sale_89f8a0a9aa",
+    "lead_id": "lead_d16dd3b257",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 137.13
+  },
+  {
+    "sale_id": "sale_fa68c2dac8",
+    "lead_id": "lead_21d034091f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 194.64
+  },
+  {
+    "sale_id": "sale_2412b079ce",
+    "lead_id": "lead_3b9bc163b8",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 135.66
+  },
+  {
+    "sale_id": "sale_9cbfb05c51",
+    "lead_id": "lead_945bb91b21",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 191.61
+  },
+  {
+    "sale_id": "sale_0828a04230",
+    "lead_id": "lead_403c969e18",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 179.8
+  },
+  {
+    "sale_id": "sale_68d238be35",
+    "lead_id": "lead_0dfbd3c301",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 173.6
+  },
+  {
+    "sale_id": "sale_27160d258d",
+    "lead_id": "lead_6889865a02",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 136.76
+  },
+  {
+    "sale_id": "sale_bf9d773278",
+    "lead_id": "lead_a1c282781b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 155.47
+  },
+  {
+    "sale_id": "sale_e380a92a02",
+    "lead_id": "lead_0b415f06a7",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 135.93
+  },
+  {
+    "sale_id": "sale_5814f6b8a7",
+    "lead_id": "lead_329c78c485",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 165.19
+  },
+  {
+    "sale_id": "sale_d34c10e052",
+    "lead_id": "lead_66db86bc2a",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-06",
+    "amount": 190.96
+  },
+  {
+    "sale_id": "sale_d69393213d",
+    "lead_id": "lead_343a796f9d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 182.96
+  },
+  {
+    "sale_id": "sale_2f96b06c4f",
+    "lead_id": "lead_c7ad6a94ee",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 191.45
+  },
+  {
+    "sale_id": "sale_34a7d74f1e",
+    "lead_id": "lead_080412231c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 163.87
+  },
+  {
+    "sale_id": "sale_27a65d8abd",
+    "lead_id": "lead_2e8ca90f84",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 159.84
+  },
+  {
+    "sale_id": "sale_7dd1578128",
+    "lead_id": "lead_bd9b3cd2d4",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 140.77
+  },
+  {
+    "sale_id": "sale_369fc3e6b3",
+    "lead_id": "lead_1854dacfdf",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 189.3
+  },
+  {
+    "sale_id": "sale_808923bf22",
+    "lead_id": "lead_93411fd160",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 188.58
+  },
+  {
+    "sale_id": "sale_3c746a3ad0",
+    "lead_id": "lead_14818ce656",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 157.79
+  },
+  {
+    "sale_id": "sale_5d5239e81b",
+    "lead_id": "lead_b67ac6ad48",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-07",
+    "amount": 168.59
+  },
+  {
+    "sale_id": "sale_feae70829a",
+    "lead_id": "lead_05ee11e66b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-08",
+    "amount": 174.57
+  },
+  {
+    "sale_id": "sale_392d5c513f",
+    "lead_id": "lead_8c3c270cc0",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-08",
+    "amount": 178.32
+  },
+  {
+    "sale_id": "sale_973f0a215a",
+    "lead_id": "lead_e8335a8256",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-08",
+    "amount": 194.69
+  },
+  {
+    "sale_id": "sale_68245e5531",
+    "lead_id": "lead_960eef8c25",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-08",
+    "amount": 148.06
+  },
+  {
+    "sale_id": "sale_c894e13949",
+    "lead_id": "lead_ee55a2d917",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-08",
+    "amount": 194.18
+  },
+  {
+    "sale_id": "sale_6e2693ae1c",
+    "lead_id": "lead_11c1c7eb06",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-08",
+    "amount": 138.21
+  },
+  {
+    "sale_id": "sale_eca5b9dcbf",
+    "lead_id": "lead_96f4f7eff8",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 149.79
+  },
+  {
+    "sale_id": "sale_55006eb1e3",
+    "lead_id": "lead_c343374c2a",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 181.29
+  },
+  {
+    "sale_id": "sale_b090abee4e",
+    "lead_id": "lead_96c452012e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 135.78
+  },
+  {
+    "sale_id": "sale_dce765ce9d",
+    "lead_id": "lead_d893a1fc71",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 186.71
+  },
+  {
+    "sale_id": "sale_cb7bd44696",
+    "lead_id": "lead_49a7c0dfe1",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 146.78
+  },
+  {
+    "sale_id": "sale_18fd113c21",
+    "lead_id": "lead_5b7a7e8902",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 158.98
+  },
+  {
+    "sale_id": "sale_625887b4a6",
+    "lead_id": "lead_c9b3fe3403",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 142.97
+  },
+  {
+    "sale_id": "sale_866199eca1",
+    "lead_id": "lead_9090559d04",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-09",
+    "amount": 173.71
+  },
+  {
+    "sale_id": "sale_de12cbe5b5",
+    "lead_id": "lead_63d95923c7",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 144.8
+  },
+  {
+    "sale_id": "sale_633793982f",
+    "lead_id": "lead_49892aba26",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 183.5
+  },
+  {
+    "sale_id": "sale_5971df9132",
+    "lead_id": "lead_66dd03b2ec",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 185.97
+  },
+  {
+    "sale_id": "sale_3e693fe73f",
+    "lead_id": "lead_5c66068b09",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 162.76
+  },
+  {
+    "sale_id": "sale_c25f4c2057",
+    "lead_id": "lead_0d057844ed",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 180.86
+  },
+  {
+    "sale_id": "sale_4545325f2f",
+    "lead_id": "lead_3b775caba3",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 181.95
+  },
+  {
+    "sale_id": "sale_4df3976540",
+    "lead_id": "lead_e8eedb4c5f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 137.59
+  },
+  {
+    "sale_id": "sale_c815553b86",
+    "lead_id": "lead_1f419a858b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 159.72
+  },
+  {
+    "sale_id": "sale_3c6f880905",
+    "lead_id": "lead_2a622375ac",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-10",
+    "amount": 181.61
+  },
+  {
+    "sale_id": "sale_450f12675e",
+    "lead_id": "lead_a6b4056180",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 170.84
+  },
+  {
+    "sale_id": "sale_03e9c75813",
+    "lead_id": "lead_875172f22b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 183.85
+  },
+  {
+    "sale_id": "sale_5a9f4e33c0",
+    "lead_id": "lead_bb0fa0caa6",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 153.22
+  },
+  {
+    "sale_id": "sale_bfb1ad1e87",
+    "lead_id": "lead_cc105228d3",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 139.28
+  },
+  {
+    "sale_id": "sale_6fb1e869c7",
+    "lead_id": "lead_4922e501ed",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 145.1
+  },
+  {
+    "sale_id": "sale_0c10a034ef",
+    "lead_id": "lead_a6b6ca4b88",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 180.33
+  },
+  {
+    "sale_id": "sale_ef1db8dbe1",
+    "lead_id": "lead_1ac15cba8e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 146.49
+  },
+  {
+    "sale_id": "sale_5eba655c38",
+    "lead_id": "lead_240777c1fb",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 156.02
+  },
+  {
+    "sale_id": "sale_cc091405b3",
+    "lead_id": "lead_b25ee1af46",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 135.6
+  },
+  {
+    "sale_id": "sale_da59ffdf3d",
+    "lead_id": "lead_adbe0e2794",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 145.28
+  },
+  {
+    "sale_id": "sale_be2d18a2af",
+    "lead_id": "lead_3c59a82933",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-11",
+    "amount": 157.42
+  },
+  {
+    "sale_id": "sale_1cf2b0f25d",
+    "lead_id": "lead_9f7e9be416",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 142.44
+  },
+  {
+    "sale_id": "sale_9dbb707cdf",
+    "lead_id": "lead_8e650d14e2",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 140.9
+  },
+  {
+    "sale_id": "sale_0abe1683d8",
+    "lead_id": "lead_01b2105c97",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 182.59
+  },
+  {
+    "sale_id": "sale_b84f3fe063",
+    "lead_id": "lead_cc2d8faea3",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 139.05
+  },
+  {
+    "sale_id": "sale_1eea9b1c24",
+    "lead_id": "lead_b34bac8ace",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 190.87
+  },
+  {
+    "sale_id": "sale_acad970895",
+    "lead_id": "lead_731f7350e4",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 162.55
+  },
+  {
+    "sale_id": "sale_6e22913798",
+    "lead_id": "lead_23de1b810c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 187.42
+  },
+  {
+    "sale_id": "sale_34b283e361",
+    "lead_id": "lead_86cfb39160",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 149.05
+  },
+  {
+    "sale_id": "sale_f660b7c985",
+    "lead_id": "lead_d5060f5850",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 174.33
+  },
+  {
+    "sale_id": "sale_cc9733510b",
+    "lead_id": "lead_0f18d9a1d4",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 153.35
+  },
+  {
+    "sale_id": "sale_396272fcca",
+    "lead_id": "lead_41aad29ee8",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 193.26
+  },
+  {
+    "sale_id": "sale_4794138602",
+    "lead_id": "lead_c4695c053c",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 142.82
+  },
+  {
+    "sale_id": "sale_31e05f3624",
+    "lead_id": "lead_3a063ad4d2",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 162.06
+  },
+  {
+    "sale_id": "sale_1a24b1e8e8",
+    "lead_id": "lead_ff8905620e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 187.75
+  },
+  {
+    "sale_id": "sale_e565883e15",
+    "lead_id": "lead_4f01d2bde2",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 161.1
+  },
+  {
+    "sale_id": "sale_b985197ad0",
+    "lead_id": "lead_9c2f988697",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-12",
+    "amount": 136.63
+  },
+  {
+    "sale_id": "sale_bd6e43f941",
+    "lead_id": "lead_32d35174e2",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 153.71
+  },
+  {
+    "sale_id": "sale_e7eeda7db4",
+    "lead_id": "lead_27b467b592",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 137.82
+  },
+  {
+    "sale_id": "sale_feee19afd3",
+    "lead_id": "lead_b40953b04a",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 186.86
+  },
+  {
+    "sale_id": "sale_25782d09d2",
+    "lead_id": "lead_65fd9bed0b",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 142.08
+  },
+  {
+    "sale_id": "sale_2c748d4774",
+    "lead_id": "lead_068f16d964",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 179.91
+  },
+  {
+    "sale_id": "sale_84581bfde5",
+    "lead_id": "lead_240aae43fe",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 186.63
+  },
+  {
+    "sale_id": "sale_5692f0acf1",
+    "lead_id": "lead_58e2340371",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 159.04
+  },
+  {
+    "sale_id": "sale_1f9d3a32a0",
+    "lead_id": "lead_8ec1914ec3",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 182.54
+  },
+  {
+    "sale_id": "sale_b7557342da",
+    "lead_id": "lead_410435ad41",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 157.53
+  },
+  {
+    "sale_id": "sale_09056299ec",
+    "lead_id": "lead_05854ae370",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 177.17
+  },
+  {
+    "sale_id": "sale_eec3edf8ea",
+    "lead_id": "lead_ced17ab94d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 164.76
+  },
+  {
+    "sale_id": "sale_5f22d9a909",
+    "lead_id": "lead_4dfff9d959",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 165.49
+  },
+  {
+    "sale_id": "sale_4046bb5c31",
+    "lead_id": "lead_e7704934ac",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-13",
+    "amount": 139.88
+  },
+  {
+    "sale_id": "sale_8295d21596",
+    "lead_id": "lead_ce3a18ecc0",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 164.24
+  },
+  {
+    "sale_id": "sale_b0efa14163",
+    "lead_id": "lead_7de1898aab",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 159.16
+  },
+  {
+    "sale_id": "sale_e77915abe0",
+    "lead_id": "lead_94a444b757",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 186.02
+  },
+  {
+    "sale_id": "sale_8f0c5e3f16",
+    "lead_id": "lead_7cb0173105",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 185.03
+  },
+  {
+    "sale_id": "sale_4c63a0b63a",
+    "lead_id": "lead_f508ac5df6",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 173.93
+  },
+  {
+    "sale_id": "sale_7a7b910d1f",
+    "lead_id": "lead_53c92d5586",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 166.26
+  },
+  {
+    "sale_id": "sale_de0a9c3e8f",
+    "lead_id": "lead_a666ee6b94",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 144.21
+  },
+  {
+    "sale_id": "sale_61d611bc5a",
+    "lead_id": "lead_1d70657473",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 151.0
+  },
+  {
+    "sale_id": "sale_e52e439931",
+    "lead_id": "lead_b9ee79c142",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 180.37
+  },
+  {
+    "sale_id": "sale_ef5e75ec30",
+    "lead_id": "lead_eabaca02bd",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-14",
+    "amount": 186.57
+  },
+  {
+    "sale_id": "sale_2eb25af4ba",
+    "lead_id": "lead_ec389208e7",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 162.89
+  },
+  {
+    "sale_id": "sale_2fe3a8cae7",
+    "lead_id": "lead_4a3295d951",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 158.99
+  },
+  {
+    "sale_id": "sale_a81106e2f4",
+    "lead_id": "lead_8c14aaf22f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 146.72
+  },
+  {
+    "sale_id": "sale_288cb35ffe",
+    "lead_id": "lead_0058b8c376",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 178.22
+  },
+  {
+    "sale_id": "sale_2141abcf89",
+    "lead_id": "lead_b73e40c256",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 194.87
+  },
+  {
+    "sale_id": "sale_6eae8f4701",
+    "lead_id": "lead_8f068c85ee",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 177.92
+  },
+  {
+    "sale_id": "sale_bf9442c09c",
+    "lead_id": "lead_ad8db19a87",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 164.02
+  },
+  {
+    "sale_id": "sale_54eb9712df",
+    "lead_id": "lead_06ec3d1c8d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 174.52
+  },
+  {
+    "sale_id": "sale_0d2f980db9",
+    "lead_id": "lead_e29809c353",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 154.41
+  },
+  {
+    "sale_id": "sale_0e697ef27c",
+    "lead_id": "lead_a66f9f5dde",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 154.5
+  },
+  {
+    "sale_id": "sale_791d7ae7de",
+    "lead_id": "lead_d8c97f414f",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 160.01
+  },
+  {
+    "sale_id": "sale_9da1c10792",
+    "lead_id": "lead_d3bb640aa8",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 182.4
+  },
+  {
+    "sale_id": "sale_8defa53756",
+    "lead_id": "lead_6088f0c0b9",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 165.3
+  },
+  {
+    "sale_id": "sale_aa57b8e8e4",
+    "lead_id": "lead_f621d06c0d",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 164.79
+  },
+  {
+    "sale_id": "sale_444f35c176",
+    "lead_id": "lead_7bcfb0c18e",
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "sale_date": "2026-09-15",
+    "amount": 143.32
+  },
+  {
+    "sale_id": "sale_05d9ca2a61",
+    "lead_id": "lead_610f1f22d6",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-26",
+    "amount": 191.46
+  },
+  {
+    "sale_id": "sale_dc327eeed6",
+    "lead_id": "lead_835f17cb93",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-26",
+    "amount": 144.39
+  },
+  {
+    "sale_id": "sale_138de4d07e",
+    "lead_id": "lead_c92b8a21fd",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-27",
+    "amount": 144.98
+  },
+  {
+    "sale_id": "sale_5399b81426",
+    "lead_id": "lead_6d79e012ba",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-27",
+    "amount": 158.44
+  },
+  {
+    "sale_id": "sale_05d2123ee0",
+    "lead_id": "lead_a59e4cc913",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-28",
+    "amount": 164.1
+  },
+  {
+    "sale_id": "sale_b05182e0c1",
+    "lead_id": "lead_e704695cb6",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-29",
+    "amount": 192.74
+  },
+  {
+    "sale_id": "sale_21d49ae7b1",
+    "lead_id": "lead_fabff85a6c",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-29",
+    "amount": 146.52
+  },
+  {
+    "sale_id": "sale_fe8521b58c",
+    "lead_id": "lead_a99a504da3",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-30",
+    "amount": 135.98
+  },
+  {
+    "sale_id": "sale_3108b468b1",
+    "lead_id": "lead_b807529b51",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-31",
+    "amount": 168.91
+  },
+  {
+    "sale_id": "sale_787cd2e27a",
+    "lead_id": "lead_b2808c5a6e",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-08-31",
+    "amount": 171.59
+  },
+  {
+    "sale_id": "sale_99ac6cf2a1",
+    "lead_id": "lead_9bdcfdab70",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-02",
+    "amount": 190.12
+  },
+  {
+    "sale_id": "sale_64d0728083",
+    "lead_id": "lead_341b9d312b",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-03",
+    "amount": 181.24
+  },
+  {
+    "sale_id": "sale_9cdf9213d7",
+    "lead_id": "lead_103f83a3b6",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-03",
+    "amount": 172.45
+  },
+  {
+    "sale_id": "sale_dd018ce53c",
+    "lead_id": "lead_fbe4e394aa",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-03",
+    "amount": 177.56
+  },
+  {
+    "sale_id": "sale_750a3b0368",
+    "lead_id": "lead_3cf25e58ec",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-03",
+    "amount": 141.27
+  },
+  {
+    "sale_id": "sale_6710c5167f",
+    "lead_id": "lead_3fc3c16205",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-03",
+    "amount": 183.59
+  },
+  {
+    "sale_id": "sale_3cf41c6993",
+    "lead_id": "lead_76277d30b9",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-04",
+    "amount": 193.17
+  },
+  {
+    "sale_id": "sale_71e030adfd",
+    "lead_id": "lead_477027d5c7",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-05",
+    "amount": 161.12
+  },
+  {
+    "sale_id": "sale_bb38be9e22",
+    "lead_id": "lead_8d059de0d1",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-07",
+    "amount": 149.73
+  },
+  {
+    "sale_id": "sale_73f291b1f2",
+    "lead_id": "lead_910e18945f",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-07",
+    "amount": 156.12
+  },
+  {
+    "sale_id": "sale_f2769aaf46",
+    "lead_id": "lead_6244b84518",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-08",
+    "amount": 156.58
+  },
+  {
+    "sale_id": "sale_43a331d0be",
+    "lead_id": "lead_5aef6ec8ba",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-10",
+    "amount": 151.65
+  },
+  {
+    "sale_id": "sale_2785352418",
+    "lead_id": "lead_a1ce592420",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-10",
+    "amount": 144.26
+  },
+  {
+    "sale_id": "sale_0790b5fa7d",
+    "lead_id": "lead_0a4295ef1a",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-10",
+    "amount": 159.63
+  },
+  {
+    "sale_id": "sale_154e2f8d58",
+    "lead_id": "lead_2a66908dd6",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-11",
+    "amount": 180.53
+  },
+  {
+    "sale_id": "sale_20c8f19efd",
+    "lead_id": "lead_275442a2cb",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-12",
+    "amount": 145.66
+  },
+  {
+    "sale_id": "sale_d074d591c2",
+    "lead_id": "lead_571e8164ab",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-12",
+    "amount": 155.56
+  },
+  {
+    "sale_id": "sale_3757e3eb9e",
+    "lead_id": "lead_ca56e25d86",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-13",
+    "amount": 163.78
+  },
+  {
+    "sale_id": "sale_08e172f385",
+    "lead_id": "lead_bcbb0cb92c",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-14",
+    "amount": 179.53
+  },
+  {
+    "sale_id": "sale_5e003e21d2",
+    "lead_id": "lead_36514fde63",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-15",
+    "amount": 138.01
+  },
+  {
+    "sale_id": "sale_632d3a2506",
+    "lead_id": "lead_df5d2f87d3",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-15",
+    "amount": 165.88
+  },
+  {
+    "sale_id": "sale_6f7526f629",
+    "lead_id": "lead_8ca5df7dcf",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-15",
+    "amount": 184.98
+  },
+  {
+    "sale_id": "sale_32226b1ce6",
+    "lead_id": "lead_1211a9faa5",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-15",
+    "amount": 162.99
+  },
+  {
+    "sale_id": "sale_a6a9b0f62f",
+    "lead_id": "lead_8b6d0ac1bf",
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "sale_date": "2026-09-15",
+    "amount": 173.24
+  }
+]

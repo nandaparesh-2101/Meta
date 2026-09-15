@@ -1,0 +1,209 @@
+[
+  {
+    "creative_id": "cr_ad_strong_campaign",
+    "ad_id": "ad_strong_campaign",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "aspiration-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Aspiration Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "aspiration",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_high_cpl_campaign",
+    "ad_id": "ad_high_cpl_campaign",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "urgency-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Urgency Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "urgency",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_cheap_low_quality_leads",
+    "ad_id": "ad_cheap_low_quality_leads",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "urgency-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Urgency Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "urgency",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_creative_fatigue",
+    "ad_id": "ad_creative_fatigue",
+    "format": "single_video",
+    "hook": "Tired of gyms that don't hold you accountable?",
+    "visual_description": "problem-first-themed single_video showing a group class in progress",
+    "primary_text": "Tired of gyms that don't hold you accountable? Join Apex Fitness and get your first class free.",
+    "headline": "Problem-First Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "problem-first",
+    "problem_stated": "Struggling to stay consistent with workouts alone",
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_audience_saturation",
+    "ad_id": "ad_audience_saturation",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "aspiration-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Aspiration Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "aspiration",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_high_ctr_poor_conversion",
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "curiosity-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Curiosity Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "curiosity",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_low_ctr_high_quality",
+    "ad_id": "ad_low_ctr_high_quality",
+    "format": "single_video",
+    "hook": "Tired of gyms that don't hold you accountable?",
+    "visual_description": "problem-first-themed single_video showing a group class in progress",
+    "primary_text": "Tired of gyms that don't hold you accountable? Join Apex Fitness and get your first class free.",
+    "headline": "Problem-First Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "problem-first",
+    "problem_stated": "Struggling to stay consistent with workouts alone",
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_insufficient_data",
+    "ad_id": "ad_insufficient_data",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "aspiration-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Aspiration Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "aspiration",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-09-13",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_scaling_opportunity",
+    "ad_id": "ad_scaling_opportunity",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "aspiration-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Aspiration Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "aspiration",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  },
+  {
+    "creative_id": "cr_ad_tracking_anomaly",
+    "ad_id": "ad_tracking_anomaly",
+    "format": "single_video",
+    "hook": "Feel unstoppable.",
+    "visual_description": "aspiration-themed single_video showing a group class in progress",
+    "primary_text": "Feel unstoppable. Join Apex Fitness and get your first class free.",
+    "headline": "Aspiration Starts Here",
+    "description": "No contracts. Cancel anytime.",
+    "cta": "Sign Up",
+    "emotional_angle": "aspiration",
+    "problem_stated": null,
+    "desire_stated": "Feel strong and confident in 90 days",
+    "proof_elements": [
+      "500+ 5-star reviews",
+      "Featured in Austin Fit Magazine"
+    ],
+    "offer_stated": "First class free",
+    "first_used_date": "2026-08-26",
+    "is_active": true
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "business_name": "Apex Fitness Studio",
+    "business_type": "local service (fitness membership)",
+    "product_or_service": "Monthly group fitness membership",
+    "price": 150.0,
+    "gross_margin_pct": 0.55,
+    "target_customer": "Adults 25-45 wanting accountability-based group fitness",
+    "geography": "Austin, TX metro",
+    "sales_process": "sales_assisted",
+    "average_customer_lifetime_value": 1800.0
+  },
+  "kpis": {
+    "revenue_goal_monthly": 45000.0,
+    "lead_goal_monthly": 300,
+    "target_cpl": 25.0,
+    "target_qualified_cpl": 60.0,
+    "target_cac": 300.0,
+    "target_roas": 3.0
+  },
+  "constraints": {
+    "max_daily_budget": 500.0,
+    "max_budget_change_pct_per_change": 0.2,
+    "min_data_days_before_scaling": 7,
+    "protected_campaign_ids": [],
+    "brand_safety_notes": "No competitor bashing; no unverifiable health claims."
+  },
+  "summary": "Apex Fitness Studio needs 300 leads/month at <=$25 CPL and <=$60 qualified CPL, converting at >=3x ROAS, to hit its $45k/month revenue goal."
+}

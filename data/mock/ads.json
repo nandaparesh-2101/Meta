@@ -1,0 +1,82 @@
+[
+  {
+    "ad_id": "ad_strong_campaign",
+    "ad_set_id": "adset_strong_campaign",
+    "name": "Strong Performer - Group Classes - Ad 1",
+    "creative_id": "cr_ad_strong_campaign",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_high_cpl_campaign",
+    "ad_set_id": "adset_high_cpl_campaign",
+    "name": "Rising CPL - Weekend Bootcamp - Ad 1",
+    "creative_id": "cr_ad_high_cpl_campaign",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_cheap_low_quality_leads",
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "name": "Cheap Volume - Free Trial Blast - Ad 1",
+    "creative_id": "cr_ad_cheap_low_quality_leads",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_creative_fatigue",
+    "ad_set_id": "adset_creative_fatigue",
+    "name": "Fatigued Hook - 90 Day Challenge - Ad 1",
+    "creative_id": "cr_ad_creative_fatigue",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_audience_saturation",
+    "ad_set_id": "adset_audience_saturation",
+    "name": "Saturated Lookalike 1% - Ad 1",
+    "creative_id": "cr_ad_audience_saturation",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_high_ctr_poor_conversion",
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "name": "Viral Hook - Poor Landing Page - Ad 1",
+    "creative_id": "cr_ad_high_ctr_poor_conversion",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_low_ctr_high_quality",
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "name": "Niche Lookalike - Serious Athletes - Ad 1",
+    "creative_id": "cr_ad_low_ctr_high_quality",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_insufficient_data",
+    "ad_set_id": "adset_insufficient_data",
+    "name": "Brand New - Just Launched - Ad 1",
+    "creative_id": "cr_ad_insufficient_data",
+    "status": "active",
+    "created_date": "2026-09-13"
+  },
+  {
+    "ad_id": "ad_scaling_opportunity",
+    "ad_set_id": "adset_scaling_opportunity",
+    "name": "Efficient & Stable - Ready to Scale - Ad 1",
+    "creative_id": "cr_ad_scaling_opportunity",
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_id": "ad_tracking_anomaly",
+    "ad_set_id": "adset_tracking_anomaly",
+    "name": "Anomalous Data - Pixel Issue Suspected - Ad 1",
+    "creative_id": "cr_ad_tracking_anomaly",
+    "status": "active",
+    "created_date": "2026-08-26"
+  }
+]

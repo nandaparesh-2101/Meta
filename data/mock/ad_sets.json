@@ -1,0 +1,282 @@
+[
+  {
+    "ad_set_id": "adset_strong_campaign",
+    "campaign_id": "cmp_strong_campaign",
+    "name": "Strong Performer - Group Classes - Ad Set 1",
+    "daily_budget": 200.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Strong Performer - Group Classes primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_high_cpl_campaign",
+    "campaign_id": "cmp_high_cpl_campaign",
+    "name": "Rising CPL - Weekend Bootcamp - Ad Set 1",
+    "daily_budget": 250.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Rising CPL - Weekend Bootcamp primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_cheap_low_quality_leads",
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "name": "Cheap Volume - Free Trial Blast - Ad Set 1",
+    "daily_budget": 180.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Cheap Volume - Free Trial Blast primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_creative_fatigue",
+    "campaign_id": "cmp_creative_fatigue",
+    "name": "Fatigued Hook - 90 Day Challenge - Ad Set 1",
+    "daily_budget": 150.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Fatigued Hook - 90 Day Challenge primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_audience_saturation",
+    "campaign_id": "cmp_audience_saturation",
+    "name": "Saturated Lookalike 1% - Ad Set 1",
+    "daily_budget": 220.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Saturated Lookalike 1% primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_high_ctr_poor_conversion",
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "name": "Viral Hook - Poor Landing Page - Ad Set 1",
+    "daily_budget": 200.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Viral Hook - Poor Landing Page primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_low_ctr_high_quality",
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "name": "Niche Lookalike - Serious Athletes - Ad Set 1",
+    "daily_budget": 160.0,
+    "audience": {
+      "audience_type": "lookalike",
+      "description": "Niche Lookalike - Serious Athletes primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": "past_customers",
+      "lookalike_pct": 0.03,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_insufficient_data",
+    "campaign_id": "cmp_insufficient_data",
+    "name": "Brand New - Just Launched - Ad Set 1",
+    "daily_budget": 100.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Brand New - Just Launched primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-09-13"
+  },
+  {
+    "ad_set_id": "adset_scaling_opportunity",
+    "campaign_id": "cmp_scaling_opportunity",
+    "name": "Efficient & Stable - Ready to Scale - Ad Set 1",
+    "daily_budget": 180.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Efficient & Stable - Ready to Scale primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  },
+  {
+    "ad_set_id": "adset_tracking_anomaly",
+    "campaign_id": "cmp_tracking_anomaly",
+    "name": "Anomalous Data - Pixel Issue Suspected - Ad Set 1",
+    "daily_budget": 150.0,
+    "audience": {
+      "audience_type": "broad",
+      "description": "Anomalous Data - Pixel Issue Suspected primary audience",
+      "age_min": 25,
+      "age_max": 45,
+      "genders": "all",
+      "locations": [
+        "Austin, TX"
+      ],
+      "placements": [
+        "feed",
+        "story",
+        "reels"
+      ],
+      "devices": [],
+      "interests": [],
+      "lookalike_source": null,
+      "lookalike_pct": null,
+      "estimated_audience_size": 250000
+    },
+    "status": "active",
+    "created_date": "2026-08-26"
+  }
+]

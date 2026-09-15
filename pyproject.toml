@@ -1,0 +1,24 @@
+[project]
+name = "meta-ads-ai-growth-os"
+version = "0.1.0"
+description = "Meta Ads AI Growth & Optimization Operating System (multi-agent, mock-data foundation)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+ignore = ["E501"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["app"]

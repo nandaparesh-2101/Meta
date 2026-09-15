@@ -1,0 +1,82 @@
+[
+  {
+    "campaign_id": "cmp_strong_campaign",
+    "name": "Strong Performer - Group Classes",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 200.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_high_cpl_campaign",
+    "name": "Rising CPL - Weekend Bootcamp",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 250.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_cheap_low_quality_leads",
+    "name": "Cheap Volume - Free Trial Blast",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 180.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_creative_fatigue",
+    "name": "Fatigued Hook - 90 Day Challenge",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 150.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_audience_saturation",
+    "name": "Saturated Lookalike 1%",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 220.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_high_ctr_poor_conversion",
+    "name": "Viral Hook - Poor Landing Page",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 200.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_low_ctr_high_quality",
+    "name": "Niche Lookalike - Serious Athletes",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 160.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_insufficient_data",
+    "name": "Brand New - Just Launched",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 100.0,
+    "created_date": "2026-09-13"
+  },
+  {
+    "campaign_id": "cmp_scaling_opportunity",
+    "name": "Efficient & Stable - Ready to Scale",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 180.0,
+    "created_date": "2026-08-26"
+  },
+  {
+    "campaign_id": "cmp_tracking_anomaly",
+    "name": "Anomalous Data - Pixel Issue Suspected",
+    "objective": "lead_generation",
+    "status": "active",
+    "daily_budget": 150.0,
+    "created_date": "2026-08-26"
+  }
+]
