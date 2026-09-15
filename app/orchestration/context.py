@@ -12,7 +12,10 @@ from dataclasses import dataclass, field
 from datetime import date
 
 from app.models.ads import Ad, AdSet, Campaign, Creative
+from app.models.brand import BrandVoiceProfile
 from app.models.business import BusinessObjective
+from app.models.crm import CRMRecord
+from app.models.execution import GuardianDecision
 from app.models.experiments import Experiment
 from app.models.leads import Lead, Sale
 from app.models.metrics import DailyInsight
@@ -54,6 +57,25 @@ class AgentContext:
         metadata={"doc": "Optional externally-supplied research snippets. Empty in mock mode."},
     )
 
+    # -- V2 expansion inputs (all optional; empty/None by default in mock mode) --
+    customer_language_sources: list[str] = field(
+        default_factory=list,
+        metadata={"doc": "Reviews/testimonials/feedback/support snippets for Customer Language Mining."},
+    )
+    crm_records: list[CRMRecord] = field(
+        default_factory=list, metadata={"doc": "Raw CRM rows, when a CRM is connected. Empty in this build."}
+    )
+    brand_voice: BrandVoiceProfile | None = field(
+        default=None, metadata={"doc": "Set by BrandVoiceAgent; consumed by content-quality/editor agents."}
+    )
+    baseline_insights: list[DailyInsight] = field(
+        default_factory=list,
+        metadata={"doc": "'Before' snapshot for PostChangeVerificationAgent. Empty until a change has been made."},
+    )
+
+    # -- V2 expansion outputs (populated by the orchestrator, not agents) --
+    guardian_decisions: list[GuardianDecision] = field(default_factory=list)
+
     def add_finding(self, finding: AgentFinding) -> None:
         self.findings.append(finding)
 
@@ -62,6 +84,9 @@ class AgentContext:
 
     def findings_for_entity(self, entity_id: str) -> list[AgentFinding]:
         return [f for f in self.findings if f.entity_id == entity_id]
+
+    def findings_by_tag(self, tag: str) -> list[AgentFinding]:
+        return [f for f in self.findings if tag in f.tags]
 
     def insights_for_campaign(self, campaign_id: str) -> list[DailyInsight]:
         return [i for i in self.insights if i.campaign_id == campaign_id]

@@ -123,7 +123,7 @@ def experiments() -> list[dict]:
 
 @router.get("/learnings")
 def learnings(tag: str | None = None) -> list[dict]:
-    return [l.model_dump(mode="json") for l in _memory.get_learnings(tag=tag)]
+    return [learning.model_dump(mode="json") for learning in _memory.get_learnings(tag=tag)]
 
 
 @router.get("/audit")

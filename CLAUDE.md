@@ -9,7 +9,8 @@ A multi-agent Meta Ads AI Growth & Optimization OS, running in **MOCK DATA
 MODE**. No Meta Marketing API is connected. No real LLM is called by
 default. No advertising change can be executed. See `README.md` for the
 full picture, `docs/ARCHITECTURE.md` for system design, `docs/AGENTS.md`
-for what each of the 16 agents + Guardian does.
+for what each of the 70 agents (16 core + 54 V2 specialists) + Guardian
+does, and `app/agents/registry.py` for the machine-readable catalog.
 
 ## Hard rules — do not violate these
 
@@ -39,17 +40,33 @@ for what each of the 16 agents + Guardian does.
    anything (see `app/execution/approval.py`).
 8. **Never store or pass raw dicts across module boundaries where a typed
    Pydantic model already exists for that data.**
+9. **Never fabricate a customer quote, testimonial, statistic, or Meta
+   metric.** `CustomerLanguageMiningAgent`, `UGCStrategistAgent`,
+   `SocialProofAgent`, etc. must return `"INSUFFICIENT EVIDENCE"` /
+   `FindingStatus.INSUFFICIENT_DATA` rather than inventing plausible-sounding
+   customer language when no real source text was supplied.
+10. **Every registered agent must be reachable by routing.** Adding an
+    agent to `AGENT_REGISTRY` without adding it to a route (or the
+    always-first/preflight/always-last/conditional lists in
+    `workflow.py`/`router.py`) leaves it dead code —
+    `tests/test_agent_registry_v2.py::test_every_registered_agent_is_reachable_by_routing`
+    enforces this.
 
 ## Where things live
 
 - Domain models: `app/models/*` (business, ads, metrics, leads,
-  recommendations, experiments, learning, execution).
+  recommendations, experiments, learning, execution, avatar, crm, brand).
 - Metric math: `app/metrics/engine.py` — pure functions, `None`-safe.
 - Business/safety rules: `app/rules/*`.
-- Agents: `app/agents/*`, registered in `app/agents/__init__.py`'s
-  `AGENT_REGISTRY`.
+- Agents: `app/agents/*` (16 core + 54 V2 specialists across
+  customer_intelligence.py, creative_generation.py, creative_ops.py,
+  landing_funnel.py, data_quality.py, positioning_offer.py,
+  funnel_economics.py, verification.py, learning_intelligence.py,
+  governance.py, prioritization.py), registered in
+  `app/agents/__init__.py`'s `AGENT_REGISTRY` and cataloged (tier/
+  capabilities/dependencies) in `app/agents/registry.py`'s `AGENT_CATALOG`.
 - Routing (which agents run for which problem): `app/orchestration/router.py`.
-- Master Orchestrator: `app/orchestration/workflow.py`.
+- Master Orchestrator (incl. preflight/capstone agent hooks): `app/orchestration/workflow.py`.
 - Persistence (SQLite): `app/memory/store.py` + `app/memory/{experiments,learnings}.py`.
 - Meta integration interface + mock: `app/integrations/*`.
 - Mock data generator (10 scenarios): `app/integrations/meta/mock_data.py`.

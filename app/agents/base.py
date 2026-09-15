@@ -15,7 +15,7 @@ from typing import Protocol
 
 from app.llm.provider import LLMProvider, get_llm_provider
 from app.models.execution import AuditEventType
-from app.models.recommendations import AgentFinding
+from app.models.recommendations import AgentFinding, FindingStatus
 from app.orchestration.context import AgentContext
 from app.rules.data_sufficiency import confidence_ceiling
 
@@ -96,7 +96,43 @@ class BaseAgent(ABC):
             confidence=0.0,
             suggested_actions=[],
             tags=["agent_error"],
+            status=FindingStatus.ERROR,
         )
+
+    def structured_output(self, context: AgentContext) -> dict:
+        """The machine-readable per-call contract from the V2 agent spec:
+
+            {agent, status, findings, evidence, assumptions,
+             confidence, recommendations, questions}
+
+        Aggregates every finding this agent produced on `run()` into one
+        object. `run()` remains the primary interface other agents/the
+        orchestrator use (a `list[AgentFinding]`) — this method exists for
+        callers (API consumers, external tooling) that need the flatter
+        contract instead.
+        """
+        findings = self.run(context)
+        if not findings:
+            return {
+                "agent": self.name, "status": FindingStatus.COMPLETE.value,
+                "findings": [], "evidence": [], "assumptions": [], "confidence": 0.0,
+                "recommendations": [], "questions": [],
+            }
+        status = FindingStatus.ERROR if any(f.status == FindingStatus.ERROR for f in findings) else (
+            FindingStatus.INSUFFICIENT_DATA
+            if all(f.status == FindingStatus.INSUFFICIENT_DATA for f in findings)
+            else FindingStatus.COMPLETE
+        )
+        return {
+            "agent": self.name,
+            "status": status.value,
+            "findings": [f.headline for f in findings],
+            "evidence": [e for f in findings for e in f.evidence],
+            "assumptions": [a for f in findings for a in f.assumptions],
+            "confidence": round(sum(f.confidence for f in findings) / len(findings), 2),
+            "recommendations": sorted({a.value for f in findings for a in f.suggested_actions}),
+            "questions": [q for f in findings for q in f.questions],
+        }
 
     @staticmethod
     def new_id(prefix: str) -> str:

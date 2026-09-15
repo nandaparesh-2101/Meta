@@ -40,7 +40,7 @@ class AttributionAgent(BaseAgent):
             revenue_total = sum(s.amount for s in sales)
             sale_lead_ids = {s.lead_id for s in sales}
             leads_never_advanced = [
-                l for l in leads if l.stage == FunnelStage.LEAD and l.lead_id not in sale_lead_ids
+                lead for lead in leads if lead.stage == FunnelStage.LEAD and lead.lead_id not in sale_lead_ids
             ]
 
             concerns: list[str] = []

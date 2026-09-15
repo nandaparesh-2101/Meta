@@ -11,13 +11,23 @@ mock dataset.
 
 ## What this is
 
-16 specialist agents (business economics, data analysis, campaign
-structure, audience, creative, copy, offer/psychology, lead quality,
-funnel diagnostics, experimentation, budget/scaling, forecasting,
-attribution, competitor intelligence, and optimization decision-making)
-plus a Guardian agent with veto power, coordinated by a Master Orchestrator
-that routes only the agents relevant to a given problem — never every
-agent for every request.
+70 agents total — the original 16 core specialists (business economics,
+data analysis, campaign structure, audience, creative, copy,
+offer/psychology, lead quality, funnel diagnostics, experimentation,
+budget/scaling, forecasting, attribution, competitor intelligence, and
+optimization decision-making) plus a V2 expansion of 54 advanced
+specialists (customer avatar & language mining, buyer awareness, hook/UGC/
+video/static creative generation, creative fatigue prediction & refresh &
+scoring & diversity, landing page/CRO/form/lead-response/CRM/sales
+intelligence, tracking data quality/statistics/anomaly detection, offer
+testing & objection mining & social proof, funnel economics & marginal
+performance & scaling risk & budget simulation, post-change verification &
+rollback decisions, learning synthesis & knowledge graph, ad policy & brand
+safety/voice/content-quality governance, and portfolio/prioritization/
+executive-strategy synthesis) — plus a Guardian agent with veto power,
+coordinated by a Master Orchestrator that routes only the agents relevant
+to a given problem — never every agent for every request. See
+`docs/AGENTS.md` for the full 70-agent catalog and routing table.
 
 The pipeline is: **DATA -> INTELLIGENCE -> ROOT CAUSE -> STRATEGY ->
 EXPERIMENT -> VALIDATION -> SAFE OPTIMIZATION -> MEASUREMENT -> LEARNING**.
@@ -69,7 +79,7 @@ No `.env` file or API keys are required for any of the above. Copy
 
 ```
 app/
-  agents/          16 specialist agents + Guardian + BaseAgent framework
+  agents/          70 agents (16 core + 54 V2 specialists) + Guardian + BaseAgent framework + registry.py
   orchestration/    Router (intelligent agent selection), Orchestrator, AgentContext
   models/           Pydantic domain models (ads, leads, metrics, recommendations, ...)
   memory/           SQLite-backed findings/recommendations/experiments/learnings/audit store

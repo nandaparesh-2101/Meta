@@ -33,6 +33,13 @@ from app.orchestration.router import route_for_trigger
 
 ALWAYS_FIRST = "business_intelligence"
 ALWAYS_BEFORE_GUARDIAN = ["experimentation", "optimization"]
+# Preflight agents run right after business_intelligence, before routed
+# diagnostics — data-quality gating is universal, not trigger-specific
+# (see app.agents.data_quality.TrackingDataQualityAgent/AnomalyDetectionAgent).
+PREFLIGHT_AGENTS: list[str] = ["tracking_data_quality", "anomaly_detection"]
+# Capstone agent — runs last, after Guardian, synthesizing cleared
+# recommendations into a NOW/NEXT/LATER plan. Performs no new analysis.
+CAPSTONE_AGENT = "executive_strategy"
 
 
 @dataclass
@@ -64,6 +71,12 @@ class Orchestrator:
         self._run_agent(ALWAYS_FIRST, context)
         executed_agents.append(ALWAYS_FIRST)
 
+        # Step 1b: universal data-quality preflight — before drawing any
+        # conclusion, check whether the underlying data can be trusted.
+        for agent_name in PREFLIGHT_AGENTS:
+            self._run_agent(agent_name, context)
+            executed_agents.append(agent_name)
+
         # Step 2: intelligent routing — only the diagnostic agents relevant
         # to this trigger run, in order.
         for agent_name in route_for_trigger(context.trigger):
@@ -91,18 +104,26 @@ class Orchestrator:
         for recommendation in context.recommendations:
             self.memory.save_recommendation(recommendation)
 
-        # Step 6: every finding produced this run is persisted to memory.
-        for finding in context.findings:
-            self.memory.save_finding(finding)
-
-        # Step 7: Guardian reviews every recommendation; nothing is approved
+        # Step 6: Guardian reviews every recommendation; nothing is approved
         # or executed without passing through here first.
         guardian = GuardianAgent(llm_provider=self.llm, audit=self.memory)
         decisions = guardian.review(context, context.recommendations)
         for decision in decisions:
             self.memory.save_guardian_decision(decision)
+        context.guardian_decisions = decisions
 
-        # Step 8: approval requests are created for anything Guardian did not
+        # Step 7: the capstone strategy agent synthesizes Guardian-cleared
+        # recommendations into a NOW/NEXT/LATER plan. It performs no new
+        # analysis — it only reads what's already in context.
+        self._run_agent(CAPSTONE_AGENT, context)
+        executed_agents.append(CAPSTONE_AGENT)
+
+        # Step 8: every finding produced this run (including the capstone's)
+        # is persisted to memory now that the run is complete.
+        for finding in context.findings:
+            self.memory.save_finding(finding)
+
+        # Step 9: approval requests are created for anything Guardian did not
         # reject and that the recommendation itself flags as needing one.
         approval_requests: list[ApprovalRequest] = []
         rec_by_id = {r.recommendation_id: r for r in context.recommendations}
